@@ -17,6 +17,15 @@ const platformMap = new Map([
   ['Nintendo Switch 2', 'Nintendo Switch 2'],
 ]);
 
+const platformIdMap = new Map([
+  [6, 'PC'],
+  [48, 'PlayStation 4'],
+  [49, 'Xbox One'],
+  [130, 'Nintendo Switch'],
+  [167, 'PlayStation 5'],
+  [169, 'Xbox Series X|S'],
+]);
+
 const platformOrder = [
   'PC',
   'PlayStation 4',
@@ -111,7 +120,7 @@ async function twitchToken() {
 async function igdbPage(token, startUnix, endUnix, offset) {
   const query = [
     'fields date,platform.name,game.name,game.summary,game.category,game.cover.image_id,game.url,game.websites.url,game.hypes,game.follows;',
-    `where date >= ${startUnix} & date <= ${endUnix} & game.category = (0,4,8,9,10,11);`,
+    `where date >= ${startUnix} & date <= ${endUnix};`,
     'sort date asc;',
     'limit 500;',
     `offset ${offset};`,
@@ -161,10 +170,16 @@ function mergeRelease(map, release) {
 
 const { start, end } = mondayWindow();
 const records = await igdbReleases(start, end);
+console.log(`IGDB returned ${records.length} dated platform records.`);
 const merged = new Map();
 
 for (const record of records) {
-  const platform = platformMap.get(record.platform?.name);
+  const category = record.game?.category;
+  if (typeof category === 'number' && ![0, 4, 8, 9, 10, 11].includes(category)) continue;
+  const platformId = typeof record.platform === 'number'
+    ? record.platform
+    : record.platform?.id;
+  const platform = platformMap.get(record.platform?.name) || platformIdMap.get(platformId);
   if (!platform || !record.game?.name || !record.date) continue;
   const releaseDate = new Date(record.date * 1000);
   mergeRelease(merged, {
