@@ -1,7 +1,1331 @@
 {
-  "generatedAt": null,
-  "weekStart": null,
-  "windowLabel": "Cloud feed awaiting its first run",
-  "sources": [],
-  "releases": []
+  "generatedAt": "2026-09-07T17:54:04.503Z",
+  "weekStart": "2026-09-07",
+  "windowLabel": "September 7–2026 (day: 13)",
+  "sources": [
+    {
+      "name": "IGDB release dates",
+      "href": "https://www.igdb.com/"
+    },
+    {
+      "name": "Linked official and storefront pages",
+      "href": "https://www.igdb.com/api"
+    }
+  ],
+  "releases": [
+    {
+      "date": "SEP 07",
+      "isoDate": "2026-09-07",
+      "title": "Aerial_Knight's MrFreezy",
+      "platforms": "PlayStation 5",
+      "href": "https://store.steampowered.com/app/4756010",
+      "description": "Play as a woman who's an axe-wielding serial killer in this light-hearted puzzle game about decapitating men, uncover the disturbing story behind New Detroit’s infamous serial killer, Mr. Freezy.",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocny1.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 07",
+      "isoDate": "2026-09-07",
+      "title": "Bus Simulator 27",
+      "platforms": "PC · PlayStation 5 · Xbox Series X|S",
+      "href": "https://store.steampowered.com/app/2397320",
+      "description": "Get ready for Bus Simulator 27, the most advanced entry in the history of the franchise. Look forward to our most comprehensive bus fleet yet, with new officially licensed brands and bus models, as well as iconic buses from the series.",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/coclj6.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 07",
+      "isoDate": "2026-09-07",
+      "title": "Cat Me If You Can",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3170490/Cat_Me_If_You_Can/",
+      "description": "Cat Me If You Can is a charming and cozy game where you explore beautifully handcrafted black-and-white worlds, searching for hidden cats to photograph and bring their colours back into the world.",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/co9cpa.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 07",
+      "isoDate": "2026-09-07",
+      "title": "Chop Chop Together",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3065360",
+      "description": "A chaotic 1–4 player co-op party game where housemates take on ridiculous jobs, earn cash, and put their friendships to the test during the wildest workdays imaginable. Work together under pressure, face unpredictable hazards, and survive…",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocqkn.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 07",
+      "isoDate": "2026-09-07",
+      "title": "Dao Zhi Hua Yin",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4785640/",
+      "description": "Don't fear to speak elusive words. The only certainty is that all things present shall fade away in time.",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocstu.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 07",
+      "isoDate": "2026-09-07",
+      "title": "Dealer's Dice",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4843710/Dealers_Dice/",
+      "description": "Dealer's Dice is a high-stakes dice defense game engineered for true gamblers. Collect powerful dice, manage your betting table, and test your luck against an endless onslaught. Will you play it safe, or push your luck for the ultimate…",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocs5o.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 07",
+      "isoDate": "2026-09-07",
+      "title": "Dub Rumble",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5083150",
+      "description": "Dub Rumble is a voice-dubbing party game where you and your friends are the voice actors. Pick a scene, listen to each line once, then record your own performance over the backing track. Solo Booth lets one player dub every character;…",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocu4l.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 07",
+      "isoDate": "2026-09-07",
+      "title": "Factory Default: Build, Trade, Repeat",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3901610",
+      "description": "Build a global industrial empire on a 3D planet earth. Mine resources, manufacture complex goods, trade across continents, and shape your companys reputation through powerful policies. Control every step of the supply chain and turn…",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/coclzk.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 07",
+      "isoDate": "2026-09-07",
+      "title": "Gems of Destiny: Magic Rescue",
+      "platforms": "PC",
+      "href": "https://www.igdb.com/games/gems-of-destiny-magic-rescue",
+      "major": false
+    },
+    {
+      "date": "SEP 07",
+      "isoDate": "2026-09-07",
+      "title": "Halloween: The Game",
+      "platforms": "PC · PlayStation 5 · Xbox Series X|S",
+      "href": "https://store.steampowered.com/app/3219630",
+      "description": "On Halloween night, 1978, no one is safe from Michael Myers. Become the Boogeyman or fight back against the face of evil itself in Halloween.",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/coc6x4.jpg",
+      "major": true
+    },
+    {
+      "date": "SEP 07",
+      "isoDate": "2026-09-07",
+      "title": "Honeycomb: The World Beyond",
+      "platforms": "PC · PlayStation 5 · Xbox Series X|S",
+      "href": "https://store.steampowered.com/app/1510440/Honeycomb",
+      "description": "Honeycomb: The World Beyond is a survival-sandbox game set on an exuberant planet – Sota7. Explore its vast world and face challenges on your bioengineering journey. Crossbreed plants or animals, gather resources, craft items, and conduct…",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/co97d9.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 07",
+      "isoDate": "2026-09-07",
+      "title": "Mewgenics",
+      "platforms": "PlayStation 5 · Xbox Series X|S · Nintendo Switch 2",
+      "href": "https://store.steampowered.com/app/686060/Mewgenics",
+      "description": "From the creator of The Binding of Isaac, Super Meat Boy and The End is Nigh comes... Mewgenics! A game where you hoard, breed, train and set cats out on epic adventures through a sprawling world of complete chaos. Level up your team as…",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/co9n5k.jpg",
+      "major": true
+    },
+    {
+      "date": "SEP 07",
+      "isoDate": "2026-09-07",
+      "title": "Orc Incremental",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4047270",
+      "description": "Start with a single orc and build an unstoppable dark army to conquer the realms in this incremental auto battler. Perfect your formation, summon mighty beasts, unlock powerful upgrades, and grow stronger with each rebirth.",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cobyit.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 07",
+      "isoDate": "2026-09-07",
+      "title": "Ova Magica",
+      "platforms": "PlayStation 4 · PlayStation 5 · Xbox One · Xbox Series X|S · Nintendo Switch · Nintendo Switch 2",
+      "href": "https://store.steampowered.com/app/1299170",
+      "description": "Experience a colorful farm game inspired by the classics! Train cute blob creatures, take care of your farm and make friends with the people of Clover Town.",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/co2k81.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 07",
+      "isoDate": "2026-09-07",
+      "title": "Seven Blasphemies",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4893400/Seven_Blasphemies/",
+      "description": "Seven Blasphemies is a traditional turn-based roguelike where every dawn may curse your run forever. Explore a dying world, choose from doomed classes, survive lethal OSR-inspired encounters, and race against extinction before the seventh…",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocrpw.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 07",
+      "isoDate": "2026-09-07",
+      "title": "Sprawl Zero",
+      "platforms": "PC · PlayStation 5 · Xbox Series X|S · Nintendo Switch 2",
+      "href": "https://store.steampowered.com/app/3748520",
+      "description": "Sprawl Zero is a fast-paced shooter inspired by the Golden Age of 2000s FPS. Survive a brutal cyberpunk city collapsing under military rule and cult fanaticism. Use your Gravity-Gloves, augments, and an arsenal of over 40 weapons to crush…",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cobzqw.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 07",
+      "isoDate": "2026-09-07",
+      "title": "Surviving Mars: Relaunched - Feeding the Future",
+      "platforms": "PC · PlayStation 5 · Xbox Series X|S",
+      "href": "https://store.steampowered.com/app/3889430",
+      "description": "Follow the dreams of humanity's boldest pioneers in Surviving Mars: Relaunched \"Feeding the Future\". Master the art of feeding a colony and face the challenges of life on Mars. Contains new buildings, food resources, colonist traits,…",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocr3m.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 07",
+      "isoDate": "2026-09-07",
+      "title": "The Glued",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3440770",
+      "description": "The peg doll faces from your childhood bedroom reappear at every turn. Struggle to find a path forward through your own personal hell in this bleak visual novel with light puzzles and point-and-click elements.",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cob06m.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 07",
+      "isoDate": "2026-09-07",
+      "title": "Thousand Hells: The Underworld Heists",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3794210/Thousand_Hells_The_Underworld_Heists/",
+      "description": "Four heroes descend into hell in a tactical narrative game blending mythology and surrealism. Recruit your team, choose your path, and overcome the trials of the underworlds. A new systemic storybook experience from the designers of King…",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/coanau.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 07",
+      "isoDate": "2026-09-07",
+      "title": "Trudge",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4797280",
+      "description": "A slow, minimalist psychological pixel experience about living the same empty routine in a silent city. Wake up. Work. Eat. Sleep. Beneath the depressing monotony and liminal surroundings, something slowly begins to break.",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocd8z.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 07",
+      "isoDate": "2026-09-07",
+      "title": "Undying Flame",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4528250/Undying_Flame/",
+      "description": "Survive a minimalist wave-survival rogue-lite. Keep the fire alive. Read its flame. Defend your fire against creatures that crawl from the dark across endless waves. Every wave survived, the fire grows. Over time, it consumes everything.",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocs5n.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 07",
+      "isoDate": "2026-09-07",
+      "title": "Voldark",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4795720",
+      "description": "Voldark is an open-world survival crafting game set in a dangerous forest filled with mutant creatures. Gather resources, craft tools and weapons, level up your character, build and defend your base while surviving relentless nighttime…",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocosk.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 07",
+      "isoDate": "2026-09-07",
+      "title": "Wanderburg",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3624140",
+      "description": "Drive your Castle on Wheels into battle in this minimalist medieval roguelike of roaming fortresses! Devour entire villages, build your modular arsenal of siege weapons and arcane machinery as you grow with every stronghold you crush.",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocszr.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
+      "title": "Barbarian Saga: The Beastmaster",
+      "platforms": "PC · PlayStation 5 · Xbox Series X|S · Nintendo Switch",
+      "href": "https://store.steampowered.com/app/2459840",
+      "description": "A classic hand-drawn 2D Metroidvania action game, it's time for revenge! Use your Beastmaster skills to unleash your inner beast, fight with your heart-devouring sword and end the threat to Arborea, you decide the ending.",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/coc2gf.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
+      "title": "Between Adventures Idle",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3702540",
+      "description": "An Idle RPG Strategy game where you gather resources in a magical world, battle powerful creatures, and upgrade your gear. Explore new locations through main and side quests; your progress continues even in the background. A simple and…",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocjh0.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
+      "title": "Catal Carta",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5116880",
+      "description": "A mystery visual novel set in a fading secondhand bookshop. Five childhood friends confront small-town scandals armed only with what they've read — drawing on the themes of unrelated books to unsettle the things people won't admit. 15…",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocud3.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
+      "title": "Code Vein II: Mask of Idris",
+      "platforms": "PC · PlayStation 5 · Xbox Series X|S",
+      "href": "https://code-vein.com/cv2/dlc/",
+      "description": "Beyond time and space...another story of history alteration. Several worlds that had vanished due to historical changes. Now, on the stage of the \"Discard World,\" where the passions of those who lived there gather, a new exploration with…",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/coccaf.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
+      "title": "Code: Terraform",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/868160",
+      "description": "A deep programming game on a frozen alien planet. Write real code to drive rovers, run power grids, fabricate parts, and fly drone fleets across the world. Your scripts run while you plan your next move. The more you terraform, the more…",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/coc1jd.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
+      "title": "Cosmic Fear",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3306920/Cosmic_Fear/",
+      "description": "Since the dawn of mankind, mysterious phenomena beyond human comprehension have occurred. Your studies suggest that everything is part of one big picture. What lies hidden in the depths of the cosmos? Explore, solve puzzles and survive in…",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/co9o9r.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
+      "title": "Crosstalk",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4898790/Crosstalk/",
+      "description": "Crosstalk is a hardware architecture design sandbox with a built-in simulator and emulator. Players build designs ranging from LED controllers to complex computers using SystemVerilog. It has a gate-level simulator, a terminal emulator,…",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/coclzz.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
+      "title": "Earth Must Die",
+      "platforms": "PlayStation 5 · Nintendo Switch",
+      "href": "https://store.steampowered.com/app/3639780",
+      "description": "These moronic Terranoids think they can just roll in here and take over my beautiful Tyrythian kingdom? The kingdom that I built from the ground up with my bare hands, and only sort of inherited from my dear, sweet, extremely dead father?…",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/coakz6.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
+      "title": "In Falsus",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3971950",
+      "description": "\"In Falsus\" ties music gameplay to a tale of lies and truth, told through the eyes of 5 girls in a modern world both familiar and not. An atmospheric soundscape awaits across 70+ songs—including more than 40 originals—arriving on release…",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocno1.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
+      "title": "Iron Wasteland",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4479060",
+      "description": "After the bombs fell, civilization collapsed into chaos. Scavenge the ruins of a shattered world, gather vital resources, and fight off hostile enemies determined to claim what little remains.",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/coc8xo.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
+      "title": "Moon Shop Simulator",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4926780/Moon_Shop_Simulator/",
+      "description": "Moon Shop Simulator is a first-person management game where you run a small shop beneath the lunar surface. From your terminal, order goods from Earth, manage cargo taxes, receive deliveries, organize your stock in numbered racks, and…",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocra4.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
+      "title": "One-inch Tactics",
+      "platforms": "Nintendo Switch",
+      "href": "https://store.steampowered.com/app/2743970/Oneinch_Tactics/",
+      "description": "Turn the tide of the war with nuanced strategies in One-inch Tactics.",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/co87zh.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
+      "title": "Pegture",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4295100",
+      "description": "Pegture is a peg solitaire-themed roguelike, deck-building game. Build your deck, enhance your pegs, perform frenetic combos, beat bosses, reach the highest score and get the best peg solitaire experience.",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocu7n.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
+      "title": "Slay the Horde",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4380280",
+      "description": "Slay the Horde is a horde survival roguelike deckbuilder about turning a generic fantasy wizard into an increasingly unreasonable magical disaster. Build a deck of spells, stack questionable upgrades, abuse elemental effects, and…",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cobyat.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
+      "title": "Sunset Summit",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3874450",
+      "description": "A co-op group climbing game for 1-8 friends! Head out on a chill but challenging climb with regular checkpoints. Use axes, ropes, pogo sticks, item delivery drones and more to reach the summit. Just remember to watch your step!",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/coc5lo.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
+      "title": "The Things We Don't See: 10 Interactive Stories of Horror, Mystery, and the Unknown",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5148420",
+      "description": "Ten Storiees. Dozens of impossible choices. Every choice decides who survives, what they become, or what they never should have seen. A branching visual novel anthology of horror, conspiracy, and quiet dread — with dozens of endings.",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocrs0.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
+      "title": "Touhou Koumakyou: New Classic - the Embodiment of Scarlet Devil",
+      "platforms": "PC · PlayStation 5 · Nintendo Switch · Nintendo Switch 2",
+      "href": "https://store.steampowered.com/app/4659620/",
+      "description": "Dodge the barrage, defeat enemies, and brave the Scarlet Mist incident. The Embodiment of Scarlet Devil returns with fresh music and graphics.You control the shrine maiden Reimu and the magician Marisa, dodge barrages and shoot at…",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/coc7m0.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
+      "title": "Touhou Koumakyou: The Embodiment of Scarlet Devil",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4924840",
+      "description": "Embodiment of Scarlet Devil features two playable characters to choose from, with two Spell Card types each. Reimu Hakurei can cover a wide area of the screen with weaker attacks, while Marisa Kirisame relies on her speed and power to…",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocu25.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
+      "title": "Valheim",
+      "platforms": "PC · PlayStation 5 · Xbox One · Xbox Series X|S · Nintendo Switch 2",
+      "href": "https://store.steampowered.com/app/892970",
+      "description": "Valheim is a brutal exploration and survival game for 1-10 players set in a procedurally-generated world inspired by Norse mythology. Craft powerful weapons, construct longhouses, and slay mighty foes to prove yourself to Odin!",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cob24q.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
+      "title": "Waifu Wars Online",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/923830",
+      "description": "Kill, loot, and level up with other players in this mysterious online realm. Welcome to WAIFU WARS ONLINE!",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/co3hbj.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "A Night at Moka Efti: A Babylon Berlin Story",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3975470",
+      "description": "Are you ready for the session? Let yourself be hypnotized and dive into the dazzling world of Moka Efti, known from the series *Babylon Berlin*. As a journalist, you’ll follow the clues to a mysterious case at the famous nightclub. But…",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocss8.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "A Wind-Shaped Love",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5048520",
+      "description": "In a world ravaged by disasters, a young rescuer meets an android girl who feels too deeply—and falls in love. When fate tears them apart, he spends ten years chasing a ghost in white. Can love outlast even death?",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocstv.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "Arc Salvo",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4463080",
+      "description": "Arc Salvo is a fast-paced online turn-based artillery game featuring explosive team battles, a growing arsenal, and deep character customization.",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/coc8xp.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "Black Friday Janitor: Clean the Whole Mall",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3396010",
+      "description": "Black Friday Janitor is a organization game that hands you the biggest clean up job of the year. Tens of thousands of items: misplaced products to return to their correct spots, rubbish to collect and dirt to tidy up. Don't expect to…",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocoge.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "Black Wolves Saga: Weiβ und Schwarz - for Nintendo Switch",
+      "platforms": "Nintendo Switch",
+      "href": "https://www.otomate.jp/bws/switch/",
+      "description": "A port for Nintendo Switch of the original Playstation Vita Bundle.",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocqqn.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "BrokenLore: Don't Lie",
+      "platforms": "PC · PlayStation 5 · Xbox Series X|S",
+      "href": "https://store.steampowered.com/app/3886200",
+      "description": "BrokenLore: DON'T LIE is psychological horror spin-off of DON’T WATCH, where lies, medication and fragile bonds blur the line between reality and nightmare.",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/coakzn.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "Chill Drive Together",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5147700",
+      "description": "An endless road that builds itself as you drive, and no reason to hurry down it. Playable with 1 or 2 players. Press B and the world around you changes on the spot, with no loading. Rain, snow, night skies, real traffic, photo mode.",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocriz.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "Circuit Flow",
+      "platforms": "Nintendo Switch",
+      "href": "https://www.nintendo.com/us/store/products/circuit-flow-switch/",
+      "description": "Route the signal. Power the board.",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocpg9.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "Clockwork Rabbit",
+      "platforms": "Nintendo Switch",
+      "href": "https://store.steampowered.com/app/2747980",
+      "description": "Tessa the bunny was hired at a textile factory as a mechanic. Create and program robots to solve logical puzzles.",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/co8yof.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "Crafty Survivors: Wicked Winter",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4888850",
+      "description": "Two new characters added to the roster of the game with their unique skills and mechanics. A whole new region with its own perils to conquer and a brand new type of stage.",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "Destiny Spire",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3369150",
+      "description": "Destiny Spire is a party-based RPG with active time battles inspired by the classics. Not your traditional turn based combat: The battle continues even while you select your actions, you'll need reflexes and wits to survive. Pick your…",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocsgz.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "Dumb Ways to Build",
+      "platforms": "PC · PlayStation 5 · Xbox Series X|S",
+      "href": "https://store.steampowered.com/app/4412320/Dumb_Ways_to_Build",
+      "description": "Dumb Ways to Build is a chaotic, physics-based co-op game. Team up with friends to assemble your crew and take-on dangerous construction jobs. With all the gear and no idea, work together to build your path forward, or die trying!",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocqnw.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "Fukakutei Sekai no Tantei Shinshi: Akugyou Futaasa no Jiken File",
+      "platforms": "Nintendo Switch",
+      "href": "https://www.twitch.tv/directory/game/Fukakutei%20Sekai%20no%20Tantei%20Shinshi%3A%20Akugyou%20Futaasa%20no%20Jiken%20File",
+      "description": "Port of Fukakutei Sekai no Tantei Shinshi, heavily censored from the PC release and new content.",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocs22.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "Fuyukuru.: Winter winds, adieu?",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4264270",
+      "description": "A “denpa” visual novel about a grisly murder in a sealed institution for immortal girls. Wool needle, knitting needle, sewing machine needle. Silk needle, stitching needle, injection needle. Futon needle, clothing needle, hook for a fish.…",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocoib.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "Gakkou de Atta Kowai Hanashi",
+      "platforms": "Nintendo Switch",
+      "href": "https://en.wikipedia.org/wiki/Gakkou_de_atta_Kowai_Hanashi",
+      "description": "Gakkou de Atta Kowai Hanashi is an Adventure game, developed by Pandora Box and published by Banpresto, which was released in Japan in 1995.",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/coa1ac.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "Garden Ink",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3421740",
+      "description": "Paint, merge, and explore! Garden Ink is a cozy sandbox/exploration game where you shape and grow your own world. Merging decorations and coloring tools help you customize your world. With hand-painted visuals and a soothing soundtrack,…",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cock47.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "Hazard Pay",
+      "platforms": "PC · PlayStation 5 · Nintendo Switch",
+      "href": "https://store.steampowered.com/app/2692620",
+      "description": "In this dark and mysterious block-pushing puzzler, you'll navigate through a secret, hazardous laboratory complex. Discover creative methods to destroy evidence and cover up the crimes of your employer.",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/co8tt2.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "HimaNatsu: Of Churches, Sunflowers, and Long Summers",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4838460/",
+      "description": "The classic visual novel \"HimaNatsu\" from the critically acclaimed developer Makura is finally available in English for the first time! Weave a cheerful yet sometimes painful tale of promises and redemption together with the Oboshiro…",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cociyr.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "Hitherto: School of Swordcery and Shieldjuration",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5050980",
+      "description": "Welcome to Hitherto High, his Majesty's Magic School of Swordcery and Shieldjuration! Train your students in the ways of magic to ready them for their final exams!!",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocr33.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "Hot Wheels Infinite Rush",
+      "platforms": "PC · PlayStation 5 · Xbox Series X|S · Nintendo Switch 2",
+      "href": "https://store.steampowered.com/app/2821390",
+      "description": "Jump into a Hot Wheels-sized world with four islands packed with events, challenges and full-throttle mayhem. Collect iconic vehicles, assemble your Rush Squad, build epic tracks, and earn the title of Rush Master.",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/coc6me.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "Infinity: HexaDome Tactics",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/1498550",
+      "description": "Pick your champions and fight in merciless 1v1 turn-based matches. Send your fighters in the arena, position them strategically, create synergies and give the crowd a brutal show! Unlock your ultimate attacks, influence the course of the…",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/coa5zv.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "Kubo 3",
+      "platforms": "Nintendo Switch",
+      "href": "https://www.nintendo.com/us/store/products/kubo-3-switch/",
+      "description": "Kubo 3 is new homebrew NES game from SJ Games (a 7 year old from France and little help from his Dad). The game is available in ROM version to download or can be ordered in complete NES CARTRIDGE edition in box with the manual.",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/co3hi1.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "Magical Blush",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3488640",
+      "description": "Magical Blush is a top-down action-adventure where fast-paced elemental combat meets Metroidvania-style exploration. Chain spell combos, exploit elemental weaknesses, rescue survivors, and team up in local co-op as you battle the powerful…",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/coav8l.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "Platina: Lab",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3430470/PLATiNA__LAB/",
+      "description": "‘PLATiNA :: LAB’ is a rhythm game that features a classic top-down note drop play style. Play a variety of tracks across different genres, connect with unique and charming DB(character) units, and discover the distinctive appeal that only…",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/co9o52.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "Roguecraft DX",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3674680",
+      "description": "The modern Amiga hit, winner of the Retro World Award at the 2025 Debug Indie Game Awards, comes to Evercade in an all-new expanded, enhanced form!",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocr9j.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "Romance of the Three Kingdoms XIV Complete Edition",
+      "platforms": "PC · PlayStation 4 · PlayStation 5 · Nintendo Switch",
+      "href": "https://www.gamecity.ne.jp/sangokushi14/wpk/ce/jp/",
+      "description": "Romance of the Three Kingdoms XIV Complete Edition includes the Romance of the Three Kingdoms XIV base game, the downloadable content “Diplomacy and Strategy Expansion Pack Bundle,” Season Pass, Season Pass 2, and new content added in the…",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "Seifuku Kanojo 3",
+      "platforms": "PC · Nintendo Switch",
+      "href": "https://www.entergram.co.jp/seikano3/",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cobyzn.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "Seifuku Kanojo 3: Dekiai Box",
+      "platforms": "Nintendo Switch",
+      "href": "https://www.igdb.com/games/seifuku-kanojo-3-dekiai-box",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/coco4j.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "Shroom and Gloom",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3271280",
+      "description": "Gather and grow cards in Shroom & Gloom, a moody first-person, roguelike double-deckbuilder bursting with fungal foes and mountains of mega-combos!",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/coaqri.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "Takeover 2",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4423270",
+      "description": "Take to the streets solo or with a partner in this fast paced, high-impact arcade beat ’em up. Takeover returns with refined gameplay, upgraded visuals and a pulse-pounding new soundtrack.",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cobsqy.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "The Alighieri Circle: Dante’s Bloodline",
+      "platforms": "PC · PlayStation 5 · Xbox Series X|S",
+      "href": "https://store.steampowered.com/app/4262620",
+      "description": "The world knows the Divine Comedy as a poem. For your family, it is a prison. As Gabriele Alighieri, you inherit a duty: reseal the gates of Hell. Burdened by fate, you descend into a psychological nightmare where the only escape is to…",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cobdjw.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "The Crust",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/1465470/The_Crust",
+      "description": "Build and automate a lunar colony that Earth depends on. Mine regolith, run conveyor-and-drone factories above and below the surface, manage colonists, trade with rival Earth factions — and play a story campaign with multiple endings.",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/coctdb.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "The Legend of Heroes: Trails from Zero",
+      "platforms": "PlayStation 5 · Nintendo Switch 2",
+      "href": "https://store.steampowered.com/app/1668510",
+      "description": "The Legend of Heroes: Trails from Zero is the fourth installment in the main Trails series, serving as a direct sequel to the events of the Liberl arc and the beginning to the Crossbell arc. The game follows Lloyd Bannings and his…",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cob8gm.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "The Legend of Heroes: Trails to Azure",
+      "platforms": "PlayStation 5 · Nintendo Switch 2",
+      "href": "https://store.steampowered.com/app/1668520",
+      "description": "The Legend of Heroes: Trails to Azure is the fifth installment in the main Trails series, serving as a direct sequel to the events of the The Legend of Heroes: Trails from Zero and the ending to the Crossbell arc. The game follows the…",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cob8gl.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "Train Sim World 7",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4678800",
+      "description": "Live life on the tracks and discover the joy of train simulation. Whether looking for a relaxing run on the rails or seeking the thrill of mastering your virtual train driver career, find your way in Train Sim World 7.",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocrgl.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "Tsukikomori",
+      "platforms": "Nintendo Switch",
+      "href": "https://www.twitch.tv/directory/game/Tsukikomori",
+      "description": "Tsukikomori is an Adventure game, developed by Pandora Box and published by Banpresto, which was released in Japan in 1996.",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/co3rhp.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "Wardogs",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/1867240/WARDOGS/",
+      "description": "Wardogs is a first-person tactical multiplayer shooter built around large-scale combined-arms battles for up to 100 players. Three teams compete to control randomized objective zones across destructible battlefields, using infantry…",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocs6d.jpg",
+      "major": true
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "Wardogs: Supporter Edition",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/sub/1746527/",
+      "description": "Wardogs: Supporter Edition includes the base game and the Supporter Pack, a collection of cosmetic items for Wardogs. The Supporter Pack includes the Valkyra A-91 Rifle camo, Lonestar Bushmaster camo, Manticore KH-2002 camo, Littlebird…",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocogj.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "Welcome to Elderfield",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3195440/Welcome_to_Elderfield/",
+      "description": "Welcome to Elderfield is a spooky farming RPG. You can farm, fish, mine, cook, craft, befriend townsfolk, beseech the old gods, investigate mysteries, watch unsettling news programs, get lost in the dead mall, die in your sleep and more.…",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/co8xtd.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "Anime Shop Simulator ✨",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3393280/Anime_Shop_Simulator/",
+      "description": "Manage your own anime shop. Play solo or team up with friends in 4-player co-op mode to grow your business. Stock shelves with manga, figures, and collectible cards in this immersive first-person game.",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocrwx.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "Backrooms Protocol",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4287480",
+      "description": "Backrooms Protocol is a 1–4 player co-op horror game focused on exploration, research, and survival across the levels of the Backrooms.",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocuau.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "Ball Scratch Simulator",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4951590/Ball_Scratch_Simulator/",
+      "description": "Your balls itch. You are in public. This is now everybody’s problem. Covertly scratch your balls through multiple public incidents, battle your useless hand, and stop before everyone finds out what kind of person you are.",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocr4c.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "Cursed District: Horror",
+      "platforms": "Nintendo Switch",
+      "href": "https://www.nintendo.com/us/store/products/cursed-district-horror-switch/",
+      "description": "The curse never left.",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocq0e.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "Deep Sheol",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3998990",
+      "description": "In a dystopian future, Agent Seth investigates a corporate geological facility where a biological gas turned people into bloodthirsty monsters. Fight through enemy hordes, uncover a dark corporate conspiracy, and face Lovecraftian…",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocsba.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "Grandpa's Bee Haven",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3209160/Grandpas_Bee_Haven/",
+      "description": "Grandpa's Bee Haven is a desktop-idler and a beekeeping sim that sits at the bottom of your screen letting you to do other things while managing your bee haven.",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cobof6.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "Gun Shop 3",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/1792350",
+      "description": "Do you like guns? Many people sure do! Gun Shop 3 is a real-time storefront simulator with a sprinkling of first person shooter mechanics on top. Choose your location, design your store, stock the shelves, and then flip that sign to “open…",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/co87jr.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "Life of a Thug",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/2948130",
+      "description": "This game throws you into the shoes of a character struggling to survive in a corrupt ghetto overrun by gangs, mafia bosses, and crooked politicians. This is no ordinary RPG; Life of a Thug is designed for players who dare to delve into…",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/co8dk7.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "NHL 27",
+      "platforms": "PlayStation 5 · Xbox Series X|S",
+      "href": "https://store.playstation.com/en-us/concept/10017367/",
+      "description": "EA Sports NHL 27 brings the identity of every NHL team to life on the ice, in the arena, and through the broadcast. Experience Authentic Atmospheres across all 32 NHL arenas, each designed to capture the sound, spectacle, and identity of…",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/coclmw.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "Nightpark Journal",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3649690",
+      "description": "A dreamcore roguelike deck builder. Explore the mysterious Nightpark as three youths, each with distinct abilities. Build unique decks for each of them, defeat enemy adults and fiends, and uncover hidden secrets.",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/coawl1.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "Riruri Tachibana: Reincarnated",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3874890/Riruri_Tachibana__Reincarnated/",
+      "description": "Haruka, who streams as the popular virtual streamer Riruri Tachibana. After a streaming accident, her everyday life quietly begins to crumble. What awaits her is a new stage—or an endless nightmare. A short first-person horror story…",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/coaosa.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "Ruptured Floor",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4927240/Ruptured_Floor/",
+      "description": "Ruptured Floor is a puzzle horror game set in surreal office spaces. It tells a story about depression and work. The protagonist needs to find a way to escape, and uncover dark secrets in the process.",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocucw.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "Starweaver Express: Per Aspera Ad Astra",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3664060",
+      "description": "\"Starweaver Express \" is a unique visual novel that blends poetic storytelling with dreamlike visuals. As the mysterious transfer student Tsubaki Ueshima, you'll step into a cloistered academy and follow the paths of girls searching for…",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cobol2.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "The Loopler",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4150860",
+      "description": "The Loopler is a idle-like roguelite simulation of a car driving in loops. Pick upgrades, place gates and sit back and relax as the mesmerizing loop gets going and the dopamine hits of numbers going up fills your brain. See if you can go…",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cobnlo.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "Your Story: Games with Death",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3257780",
+      "description": "A medieval text quest in the \"Choose Your Own Adventure\" genre, where each choice could be your last. Create your story with more than 2,000 events, 200 of which will prove fatal. In a world where death plays against you, can you outsmart…",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/co9uud.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 11",
+      "isoDate": "2026-09-11",
+      "title": "Luduvo",
+      "platforms": "PC",
+      "href": "https://luduvo.com/",
+      "description": "Luduvo is a user-generated content (UGC) sandbox gaming platform built on a proprietary engine. The platform allows players to create, share, and play community-designed games using a suite of built-in development tools and custom avatar…",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocmfu.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 11",
+      "isoDate": "2026-09-11",
+      "title": "Space Parkour Obby",
+      "platforms": "Nintendo Switch",
+      "href": "https://www.nintendo.com/us/store/products/space-parkour-obby-switch/",
+      "description": "One small hop for a frog, one giant leap through space!",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocq0m.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 12",
+      "isoDate": "2026-09-12",
+      "title": "Orba",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3520600",
+      "description": "ORBA is a fast-paced 2D pixel-art action game where you race a fragile Orb up a deadly tower. Dash through shifting floors, use powerful Lucky Charms to outpace destruction, and push your limits before the Orb shatters.",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/coblsn.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 12",
+      "isoDate": "2026-09-12",
+      "title": "Put Back Stuff",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5130150/Put_Back_Stuff/",
+      "description": "Put Back Stuff is a cozy organisation simulator where you put items back where they belong. Enjoy peaceful, play at your pace organisation.",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocsjw.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 13",
+      "isoDate": "2026-09-13",
+      "title": "Animaly Bar: No Humanity!",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4580600",
+      "description": "Run your bar as a gorilla and hunt down the humans in animal costumes hiding among your customers. Observe them closely, spot the clues that give their disguises away, test their slogans, and blow the imposters away with your shotgun.…",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/coc3rj.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 13",
+      "isoDate": "2026-09-13",
+      "title": "Bar Darts Simulator",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4071790",
+      "description": "In Bar Darts Simulator, grab a few beers with friends, crack a few jokes, and challenge each other across 10 fun dart games. Aim, throw, and take a sip of your drink while you listen to the lively bar atmosphere.",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocagn.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 13",
+      "isoDate": "2026-09-13",
+      "title": "Battleships Simulator",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4058130",
+      "description": "Battleships Simulator puts you in command of mighty shipsstrike, sink your opponent, and claim victory! Feel the thrill of naval battles and outsmart your foe in intense, turn-based war action!",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocagm.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 13",
+      "isoDate": "2026-09-13",
+      "title": "Blood Lily: Killers Can't Sink a Yuri Ship",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3863090",
+      "description": "A B-horror mystery comedy adventure game. Having a crush on your bestie is hard enough without serial killers in the way! Lily's vacay plan to romance her crush Sally goes wrong when killers keep cropping up and ruining the mood. And that…",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/coa8w5.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 13",
+      "isoDate": "2026-09-13",
+      "title": "Boxing Pro Simulator",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3943480",
+      "description": "Boxing Pro Simulator throws you into the ring with the roar of the crowd in your ears! Unleash unstoppable punches, lightning jabs, and crushing hooks in adrenaline-fueled bouts where every hit could be the knockout blow!",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocalp.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 13",
+      "isoDate": "2026-09-13",
+      "title": "Cloudscrapers",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3562200/Cloudscrapers/",
+      "description": "Cloudscrapers is a minimalist strategy game with a relaxing atmosphere. Start with simple tools and build the tallest tower you can. With each climb, you’ll improve, unlock upgrades, and reach new heights. As your tower rises, you’ll…",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/coat6q.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 13",
+      "isoDate": "2026-09-13",
+      "title": "Creator Chronicles",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3947460",
+      "description": "A game within a game. In this entirely new kind of simulation RPG, become a guild master, develop your town, recruit guild members, and conquer dungeons. Every decision you make becomes your own chronicle.",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/coaepb.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 13",
+      "isoDate": "2026-09-13",
+      "title": "Depth of Mind",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3711100",
+      "description": "In this turn-based strategy game, you must assemble the strongest team of mental operatives to overcome mental illnesses inside a person.",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/coc12a.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 13",
+      "isoDate": "2026-09-13",
+      "title": "Dinosaur Hunting Simulator",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4064030",
+      "description": "Go back in time in Dinosaur Hunting Simulator, grip your rifle tight, and feel the thrill as you track massive tyrannosaurus, triceratops, and more across wild, untamed landscapes. Every hunt is a heart-pounding adventure.",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocalm.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 13",
+      "isoDate": "2026-09-13",
+      "title": "Dunebound Tactics",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3034660",
+      "description": "Lead your band of survivors on a perilous trek across unforgiving sands in search of a new home. Battle ruthless factions, scavenge dwindling resources, reshape the terrain to your advantage and make life-or-death choices in Dunebound…",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cobjwt.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 13",
+      "isoDate": "2026-09-13",
+      "title": "F1 Simulator",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4071810",
+      "description": "F1 Simulator puts you in the cockpit, where every turn, every boost, and every second counts. Feel the adrenaline, chase insane speeds, and carve your name into the record books as the ultimate racing legend!",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocagj.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 13",
+      "isoDate": "2026-09-13",
+      "title": "Gamble Life",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5114530/GAMBLE_LIFE/",
+      "description": "Gamble Life is a four-player Five-Card Draw poker game that combines poker with special abilities and roguelike elements. Use powerful abilities to manipulate the rules of poker, build unique combinations, and win money from your…",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocucv.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 13",
+      "isoDate": "2026-09-13",
+      "title": "GameZone: Game Store Simulator",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4138930/GameZone/",
+      "description": "GameZone is a first-person store management simulation game playable solo or in online co-op for up to four players. Players operate a game shop by ordering stock, arranging products, setting prices, scanning purchases, serving customers,…",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocphu.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 13",
+      "isoDate": "2026-09-13",
+      "title": "Grid",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4244590",
+      "description": "Grid Slash is a fast-paced, grid-based visual debugging action game where you dive into consecutive battles and wipe out system-breaking bugs.",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cobjcx.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 13",
+      "isoDate": "2026-09-13",
+      "title": "How to Grow Your Sausage",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4628250/How_to_Grow_Your_Sausage/",
+      "description": "Every [key]stroke makes your sausage bigger. Let it sit in the corner of your screen and watch it grow while you use your computer. Feed it different meats, upgrade your butcher, and see the magic happen. Have you ever dreamed of growing…",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/coc691.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 13",
+      "isoDate": "2026-09-13",
+      "title": "Hunting Pro Simulator",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4054250",
+      "description": "In Hunting Pro Simulator, your hearts racing, hands shaking BAM! Take the perfect headshot! Feel the thrill, aim the target, and celebrate as the beast hits the ground. Hunting has never felt this easy!",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocagh.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 13",
+      "isoDate": "2026-09-13",
+      "title": "Meeple Incremental",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4353350",
+      "description": "Roll dice to move Meeples around the board and collect money, skill points, and capsule tickets. Unlock unique skills and minigames, powerful collectibles, and automate dice rolls to increase your income.",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/coc63w.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 13",
+      "isoDate": "2026-09-13",
+      "title": "Mini Golf Simulator",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4071800",
+      "description": "Mini Golf Simulator is a calm, cozy mini golf experience made to help you slow down and unwind. Enjoy peaceful courses, the sound of birds on a fresh Saturday morning, and the simple satisfaction of mastering each hole and landing the…",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocagg.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 13",
+      "isoDate": "2026-09-13",
+      "title": "Neat",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4300090/Neat/",
+      "description": "Neat is a game about helping people organize their lives by organizing their spaces.",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/coburk.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 13",
+      "isoDate": "2026-09-13",
+      "title": "Peacemaker: Bloody Emperor",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/2548910",
+      "description": "A dark fantasy JRPG. The imperial princess Chrysoberyl must fight the Bloody Emperor who has usurped the throne. However, her army is small and her allies are conniving. It is a bloody war where she will have to choose between peace and…",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/co70yl.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 13",
+      "isoDate": "2026-09-13",
+      "title": "Pibcremental",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4573090",
+      "description": "A cozy, chaotic idle-incremental clicker about growing a civilisation of tiny creatures called Pibbles in a giant tree, set in a post-human world. Gather resources, build wacky structures and play mini-games to push your production to its…",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/coc69m.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 13",
+      "isoDate": "2026-09-13",
+      "title": "Pilot Force Simulator",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3943280",
+      "description": "Pilot Force Simulator throws you into the heart of a chaotic space battle. Dodge waves of bullets, feel the thrill of near-misses, and unleash powerful attacks in an intense, fast-paced fight through the stars!",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocalv.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 13",
+      "isoDate": "2026-09-13",
+      "title": "Rehaunted",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4538140",
+      "description": "Enter a house where every clue feels wrong. Investigate a brutal crime scene, uncover hidden evidence, and use your detective tools to piece together a disturbing truth buried beneath the silence.",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cockxz.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 13",
+      "isoDate": "2026-09-13",
+      "title": "Rig Riot",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3180340/RIG_Riot/",
+      "description": "A fast-paced third-person mech-action roguelike",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/co9lh8.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 13",
+      "isoDate": "2026-09-13",
+      "title": "Rover’s Radventure: The New Millennium",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4262970/Rovers_Radventure_The_New_Millennium/",
+      "description": "After a regular day at work transforms into a bizarre trip that turns his life upside down, a washed-up park ranger named Rover needs to step up and go on a journey that will take him far beyond his wildest fantasies and lead him to…",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocm95.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 13",
+      "isoDate": "2026-09-13",
+      "title": "Sigilfarer",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/2436870/Sigilfarer/",
+      "description": "Sigilfarer is a roguelite adventure where every decision rests on the roll of your dice. Master a dice-building system while navigating a sprawling, procedurally generated world. Strategize your route, manage resources and push your luck…",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/co9wqk.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 13",
+      "isoDate": "2026-09-13",
+      "title": "Spaceship Pro Simulator",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3943370",
+      "description": "Spaceship Pro Simulator. Strapped in and ready. One ship, one missionsurvive the unknown. Enemies ahead, systems online. This is my journey through deep space, and I'm not going down easy.",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocalq.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 13",
+      "isoDate": "2026-09-13",
+      "title": "Stack Together: To the Moon",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3424650",
+      "description": "Work together to build towering structures and reach the Moon! Build massive towers, launch rockets, slow down the incoming meteor, and discover anomaly boxes to keep your structure balanced. A chaotic physics-based co-op adventure for up…",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocrim.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 13",
+      "isoDate": "2026-09-13",
+      "title": "Suba Pogo",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5052250",
+      "description": "An emergency call echoed through the peaceful Hololive!! Subaru from the Oozora Police Department picks up the phone and rushes out on an urgent dispatch...!!!",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocqlo.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 13",
+      "isoDate": "2026-09-13",
+      "title": "Supermarket Life Simulator",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4311370",
+      "description": "Run your own supermarket! Buy, stock, and sell items, expand your store, and manage customers. Customize your layout, explore new locations, and hire staff. Keep things fresh with variety and new challenges as you grow your business.",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocad6.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 13",
+      "isoDate": "2026-09-13",
+      "title": "The Headlands",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4301110",
+      "description": "A cozy top-down farming management game focused on planning and steady growth. Manage fields, machinery, and resources, upgrade your farm, and develop efficient processes at your own pace in a calm, strategic experience.",
+      "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cobiy5.jpg",
+      "major": false
+    }
+  ]
 }
