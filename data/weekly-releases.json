@@ -1,11 +1,15 @@
 {
-  "generatedAt": "2026-09-07T17:54:04.503Z",
+  "generatedAt": "2026-09-07T17:58:04.913Z",
   "weekStart": "2026-09-07",
-  "windowLabel": "September 7–2026 (day: 13)",
+  "windowLabel": "September 7–13, 2026",
   "sources": [
     {
       "name": "IGDB release dates",
       "href": "https://www.igdb.com/"
+    },
+    {
+      "name": "Steam upcoming releases",
+      "href": "https://store.steampowered.com/search/?category1=998&filter=comingsoon"
     },
     {
       "name": "Linked official and storefront pages",
@@ -21,6 +25,16 @@
       "href": "https://store.steampowered.com/app/4756010",
       "description": "Play as a woman who's an axe-wielding serial killer in this light-hearted puzzle game about decapitating men, uncover the disturbing story behind New Detroit’s infamous serial killer, Mr. Freezy.",
       "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocny1.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 07",
+      "isoDate": "2026-09-07",
+      "title": "Burrows of Cairntir",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5175240/Burrows_of_Cairntir/?snr=1_7_7_comingsoon_150_1",
+      "description": "A first-person, turn-based dark fantasy dungeon crawler inspired by six ancient mythologies. Create your character, master spells, craft and enchant equipment, recruit followers, and battle gods, monsters, and the undead across 60…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5175240/73b46afe9e777739668c1677c4a4f781812f9b88/header.jpg?t=1788747514",
       "major": false
     },
     {
@@ -76,6 +90,36 @@
     {
       "date": "SEP 07",
       "isoDate": "2026-09-07",
+      "title": "Dice Tavern: Farkle Roguelike",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4587610/Dice_Tavern_Farkle_Roguelike/?snr=1_7_7_comingsoon_150_1",
+      "description": "Dice Tavern is a roguelike deckbuilding game built around the classic rules of Farkle. Collect 35 unique dice, combine 43 Synergies and put your luck to the test in a candlelit medieval tavern. Use dice as your weapon and luck as your…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4587610/23c3ec471d447c5aecf4fcd37f290e263639ceac/header.jpg?t=1788770977",
+      "major": false
+    },
+    {
+      "date": "SEP 07",
+      "isoDate": "2026-09-07",
+      "title": "Dirty Laundry",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4610590/Dirty_Laundry/?snr=1_7_7_comingsoon_150_1",
+      "description": "Unable to hold down a job, Emily tries her luck on the night shift at a local laundromat. However, what starts as an ordinary job quickly turns into a nightmare as bizarre customers arrive, and the dark secrets of one particularly…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4610590/042688b1a3355e76f38a3538eb3b29335c9125a3/header.jpg?t=1788591642",
+      "major": false
+    },
+    {
+      "date": "SEP 07",
+      "isoDate": "2026-09-07",
+      "title": "Dragon Tiles",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4115370/Dragon_Tiles/?snr=1_7_7_comingsoon_150_1",
+      "description": "Dragon Tiles is a lightweight top-down action roguelite bullet-hell survival game. Lead a chain of multiple heroes in a snake-like formation, automatically attacking and clearing waves of enemies while upgrading your team through the shop…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115370/d35032c6d01ae9940a1a8755020598399f3bd4a3/header.jpg?t=1787856044",
+      "major": false
+    },
+    {
+      "date": "SEP 07",
+      "isoDate": "2026-09-07",
       "title": "Dub Rumble",
       "platforms": "PC",
       "href": "https://store.steampowered.com/app/5083150",
@@ -96,6 +140,16 @@
     {
       "date": "SEP 07",
       "isoDate": "2026-09-07",
+      "title": "Flood With Friends",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5005150/Flood_With_Friends/?snr=1_7_7_comingsoon_150_1",
+      "description": "Nail a raft (or a plane) out of junk, load it with everything valuable or ridiculous and sail for the next island before the water swallows you up. Co-op physics chaos for 1-8 friends.",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5005150/8241d492e516a3fde511387de6fea6a32255151e/header.jpg?t=1788532802",
+      "major": false
+    },
+    {
+      "date": "SEP 07",
+      "isoDate": "2026-09-07",
       "title": "Gems of Destiny: Magic Rescue",
       "platforms": "PC",
       "href": "https://www.igdb.com/games/gems-of-destiny-magic-rescue",
@@ -110,6 +164,16 @@
       "description": "On Halloween night, 1978, no one is safe from Michael Myers. Become the Boogeyman or fight back against the face of evil itself in Halloween.",
       "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/coc6x4.jpg",
       "major": true
+    },
+    {
+      "date": "SEP 07",
+      "isoDate": "2026-09-07",
+      "title": "Hex Town",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3508260/Hex_Town/?snr=1_7_7_comingsoon_150_1",
+      "description": "Every level brings an interesting puzzle to solve. Place and merge tiles using patterns that you’ll discover along the way. Plan ahead, find optimal solutions, and earn rewards that you’ll use to build your Homestead.",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3508260/67709c25961e244759e999de7aecfad3a65fe010/header.jpg?t=1788165166",
+      "major": false
     },
     {
       "date": "SEP 07",
@@ -149,6 +213,16 @@
       "href": "https://store.steampowered.com/app/1299170",
       "description": "Experience a colorful farm game inspired by the classics! Train cute blob creatures, take care of your farm and make friends with the people of Clover Town.",
       "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/co2k81.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 07",
+      "isoDate": "2026-09-07",
+      "title": "Run to Run",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4994490/Run_to_Run/?snr=1_7_7_comingsoon_150_1",
+      "description": "Find and collect every marker before the other players! Use unpredictable items and customize your character in this online multiplayer party racing game.",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4994490/b623ef0cad6df60a092a3a8859a690e949ea685e/header.jpg?t=1788607241",
       "major": false
     },
     {
@@ -242,6 +316,66 @@
       "major": false
     },
     {
+      "date": "SEP 07",
+      "isoDate": "2026-09-07",
+      "title": "YiJing 101",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5070950/YiJing_101/?snr=1_7_7_comingsoon_150_1",
+      "description": "&lt;Yi Jing&gt; is not fortune-telling. It is a way of observing the world. &lt;Yi Jing 101&gt; is an educational game centered on the Yi Jing. It combines a progressive curriculum with immersive scenario mini-games, guiding you to embark…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5070950/817e07d05a3dab8b2c4fe3f01a6931e1fd08724f/header.jpg?t=1787814317",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
+      "title": "Acceptable Losses",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3884200/Acceptable_Losses/?snr=1_7_7_comingsoon_150_1",
+      "description": "Acceptable Losses is a phase based WWI command and management game. Lead squads through a brutal 20 day campaign, balancing morale, fatigue, cohesion, and the paperwork of war. Perform well enough and you may be ordered Over the Top,…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3884200/7c789749a5af1adff23271e55a6c6cf5a0090386/header.jpg?t=1786644572",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
+      "title": "All Our Winters",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5113600/All_Our_Winters/?snr=1_7_7_comingsoon_150_1",
+      "description": "A procedural god game about a world that reads your every act as an omen. Send rain, fire, plague, blessing across an isometric wilderness while settlements grow, farm, pray, wage war and bury their dead through seasons that fight back.…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5113600/ef478318129a2a2333500316f879b37715f81d75/header.jpg?t=1787749901",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
+      "title": "aMazeing 98",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4960010/aMazeing_98/?snr=1_7_7_comingsoon_150_1",
+      "description": "Explore procedurally generated mazes in a retro first-person adventure inspired by late-1990s computer graphics. Unlock new texture packs, discover strange encounters, and race to improve your best time.",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4960010/0cd53e3fb5577db4b4e42c76fe85bd7bae4eb6b9/header.jpg?t=1788365093",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
+      "title": "Anvil and Alembic",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5131220/Anvil_and_Alembic/?snr=1_7_7_comingsoon_150_1",
+      "description": "Run a fantasy outfitter at the edge of the realm. Forge blades, hammer armour and brew potions, then sell them to the heroes who walk through your door. Arm adventurers for deadly expeditions, grow your workshop from a roadside anvil to a…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5131220/6f485b2276c3143b5f5466a549e196a81b92393a/header.jpg?t=1787692360",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
+      "title": "Arcade Galaxy",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3090620/Arcade_Galaxy/?snr=1_7_7_comingsoon_150_1",
+      "description": "A fast-paced party platformer where you race, jump, and outplay rivals as customizable animal Cubs. Create and share your own levels with an intuitive editor, or tackle hundreds of player-made maps filled with traps, boosts, and surprises.",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3090620/c2ef6e58e16884d96db5f1c371d8d83f25c17ff8/header.jpg?t=1788757333",
+      "major": false
+    },
+    {
       "date": "SEP 08",
       "isoDate": "2026-09-08",
       "title": "Barbarian Saga: The Beastmaster",
@@ -249,6 +383,16 @@
       "href": "https://store.steampowered.com/app/2459840",
       "description": "A classic hand-drawn 2D Metroidvania action game, it's time for revenge! Use your Beastmaster skills to unleash your inner beast, fight with your heart-devouring sword and end the threat to Arborea, you decide the ending.",
       "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/coc2gf.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
+      "title": "Baryum",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4989230/Baryum/?snr=1_7_7_comingsoon_150_1",
+      "description": "A first-person space sim set in the real solar system at true scale, with every planet where it actually is today. Dock at the ISS, take contracts, survey planets, mine moons, haul cargo and fight pirates across genuine interplanetary…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4989230/8719c44d2830fa27175d5a92470fa4d44faf387f/header.jpg?t=1787113440",
       "major": false
     },
     {
@@ -264,11 +408,81 @@
     {
       "date": "SEP 08",
       "isoDate": "2026-09-08",
+      "title": "Brutal Ball Manager 2",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4100880/Brutal_Ball_Manager_2/?snr=1_7_7_comingsoon_150_1",
+      "description": "Brutalball Manager 2 is the sequel to the Football Franchise Management Simulation game. Based on American Football in a Fantasy setting with unique rules. Take full control of the entire league. Tons of customization and deep stat…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4100880/37a2557d0c89d924f0cccb97d220a0367fe6261b/header.jpg?t=1788438996",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
+      "title": "Capitalize",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5083730/Capitalize/?snr=1_7_7_comingsoon_150_1",
+      "description": "Financial life sim from 18 to retirement: job, budget, housing, broker (ETFs, stocks, gold…), business &amp; IPO, local modes + online career. Learn compounding and the 4% rule by playing.",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5083730/8b6ccb5724775ff2d6e68f7c59a9d034b844d3ad/header.jpg?t=1788522859",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
+      "title": "Carajito",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4988100/Carajito/?snr=1_7_7_comingsoon_150_1",
+      "description": "A horde-survival roguelite where even your win condition is random. Mow down tons of absurd enemies, forge an arsenal that gets weirder every round, sign shady contracts and push your luck at the shop. Survive the chaos… before it brings…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4988100/ecbeaf754dfe47f97a79a1ce6503ee8047891df5/header.jpg?t=1787584635",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
+      "title": "Card Revolution Soccer",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5039170/Card_Revolution_Soccer/?snr=1_7_7_comingsoon_150_1",
+      "description": "CARD REVOLUTION SOCCER is a football game where you don't control players - you control cards. Easy to learn, but hard to predict! Reveal cards to shape the match, develop nations or yourself as a coach, and fight your way through World…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5039170/da717a8f2dab2bf162fd5b5f1b1f9245ace1910a/header.jpg?t=1788617641",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
+      "title": "CARDCRAFTER",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4915300/CARDCRAFTER/?snr=1_7_7_comingsoon_150_1",
+      "description": "A deck-building roguelite centered on &quot;forging.&quot; In this game, almost every cards are crafted by players. By using enchantment stones and inscriptions, you can reforge cards, embed affixes, and hone their potential to create a…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4915300/fc8c71534cd5970b5310cddeb1b90f8e25d1e6ea/header.jpg?t=1787928416",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
       "title": "Catal Carta",
       "platforms": "PC",
       "href": "https://store.steampowered.com/app/5116880",
       "description": "A mystery visual novel set in a fading secondhand bookshop. Five childhood friends confront small-town scandals armed only with what they've read — drawing on the themes of unrelated books to unsettle the things people won't admit. 15…",
       "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocud3.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
+      "title": "CoAnnCo",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4741230/CoAnnCo/?snr=1_7_7_comingsoon_150_1",
+      "description": "Cute Rice Ball Friends Co-operative Action! Four players join forces to dig into the gimmicks of the map and escape the stage. Will you be able to show off your perfect chemistry with your friends or will you be a trawler?",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4741230/7d2dec247a567184768fe746d0930d069c1c56a9/header.jpg?t=1788309643",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
+      "title": "Code Name: Boogeyman",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5113810/Code_Name_Boogeyman/?snr=1_7_7_comingsoon_150_1",
+      "description": "Code Name: Boogeyman is a single-player action-fighting game inspired by iconic movies and video games.",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5113810/fb512ee8a730623e06d62ea02d1ea1225ee3887c/header.jpg?t=1788644855",
       "major": false
     },
     {
@@ -314,11 +528,91 @@
     {
       "date": "SEP 08",
       "isoDate": "2026-09-08",
+      "title": "Cyberpunk Store Simulator",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3984060/Cyberpunk_Store_Simulator/?snr=1_7_7_comingsoon_150_1",
+      "description": "Run your own futuristic cyber-store in Cyberpunk Universe! Manufacture unique goods with a 3D printer, stock your shelves, set prices, and process cash or chip payments. Hire robotic staff, launch drone deliveries across the neon-lit…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3984060/5fdeae44a139374b9067707ad7fc69f28f69bbc0/header.jpg?t=1788784578",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
+      "title": "Desk Top Racer",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5033210/Desk_Top_Racer/?snr=1_7_7_comingsoon_150_1",
+      "description": "Turn your desktop into a living racetrack with this idle racing management game. Acquire cars, equip parts, and compete online against other players. Win championships and expand your garage through Mastery, Collections, and new rewards.",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5033210/822c447ddb67b1f40ffd4dbe229314e05557b60a/header.jpg?t=1786977655",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
+      "title": "Dicewayfarer",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3609280/Dicewayfarer/?snr=1_7_7_comingsoon_150_1",
+      "description": "A dice-building roguelike where you shape a 25-dice board to unleash powerful chained attacks.",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3609280/9d796f3c0ac6eeacbdb0653aa82b25d19e05f7d5/header.jpg?t=1788526515",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
       "title": "Earth Must Die",
       "platforms": "PlayStation 5 · Nintendo Switch",
       "href": "https://store.steampowered.com/app/3639780",
       "description": "These moronic Terranoids think they can just roll in here and take over my beautiful Tyrythian kingdom? The kingdom that I built from the ground up with my bare hands, and only sort of inherited from my dear, sweet, extremely dead father?…",
       "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/coakz6.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
+      "title": "Elder Gate",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5146910/Elder_Gate/?snr=1_7_7_comingsoon_150_1",
+      "description": "Elder Gate is a frantic TD strategy game. Build mines for gold, deploy archers, mages, and spikes, and unleash meteor showers and lightning bolts on your enemies. Your only goal is to protect the portal from all possible monsters at all…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5146910/c96223623b14e0b045eb0bcf5ffbaeb24df195c3/header.jpg?t=1787671840",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
+      "title": "Fill The Void",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4598190/Fill_The_Void/?snr=1_7_7_comingsoon_150_1",
+      "description": "Start Small. Consume. Get huge. 'Fill The Void' is a physics-driven incremental 3D platforming collectathon where you play as a black hole.",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4598190/382a5c9a7a5721c5611b6f88abdbce148206b3a3/header.jpg?t=1788306059",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
+      "title": "Fortuna's Ledger",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5131200/Fortunas_Ledger/?snr=1_7_7_comingsoon_150_1",
+      "description": "You are not the adventurer — you are his luck. A roguelike where fortune is a currency you spend and earn, choosing every twist of fate for an autonomous hero. Borrow against ruin, then settle the Audit before the stairs. 24 floors, 65…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5131200/27ebef840000c31118fd7cb37d0df2b4e5679577/header.jpg?t=1787882429",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
+      "title": "groky",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5173960/groky/?snr=1_7_7_comingsoon_150_1",
+      "description": "Test your IQ in a minimalist grid puzzle where every step counts!",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5173960/b0070d4955fef42059f62b12352636f025ccbae2/header.jpg?t=1788011426",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
+      "title": "Hyper ACK",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5118420/Hyper_ACK/?snr=1_7_7_comingsoon_150_1",
+      "description": "Dodge the bad traffic. Catch the good traffic. An endless arcade dodger where you are the firewall. Six modes, cyber-neon presentation, and a scrolling log that logs every packet.",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5118420/0d767bedf35962c2db223a2a110a3aadf2cc856e/header.jpg?t=1788651408",
       "major": false
     },
     {
@@ -344,11 +638,101 @@
     {
       "date": "SEP 08",
       "isoDate": "2026-09-08",
+      "title": "King Assassination",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5071940/King_Assassination/?snr=1_7_7_comingsoon_150_1",
+      "description": "A fast-paced multiplayer deception game where Guards protect the King and Assassins hunt their target. Work together, deceive your enemies, identify threats, and strike at the perfect moment to claim victory.",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5071940/0d845f48f31ffa4f1e0918bd2f54e1bb5144344e/header.jpg?t=1788546277",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
+      "title": "Let Me Poo!",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4235980/Let_Me_Poo/?snr=1_7_7_comingsoon_150_1",
+      "description": "A contract with fine print and a hateful landlord leave a man about to explode. Let Me Poo! is an incremental clicker where you headbutt through endless walls to reach the toilet. Face the ultimate urgency before it's too late!",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4235980/34ec0e98c049588609a12e4f7938d99ef49b7724/header.jpg?t=1788698061",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
+      "title": "MapCity",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4964730/MapCity/?snr=1_7_7_comingsoon_150_1",
+      "description": "MapCity is a sandbox for drawing cities directly onto the map. Start with a blank canvas or import real-world map data, then draw roads, buildings, neighborhoods, towns, cities, and entire countries. Build, reshape, and customize your…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4964730/8ee73c373fc15ab0ba5bf8276bf679014f181c04/header.jpg?t=1788374387",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
+      "title": "MergeCaster",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5119830/MergeCaster/?snr=1_7_7_comingsoon_150_1",
+      "description": "&quot;MergeCaster&quot; is a roguelike game that blends lane defense, deck-building, turn-based combat, and merge puzzles. Merge panels to unleash skills and repel hordes of monsters. Customize your deck and grow stronger as a…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5119830/5b4adf97b9b53c0897410c8a7ee292561a8a0072/header.jpg?t=1788793456",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
+      "title": "Might & Poison Mushroom",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4991340/Might__Poison_Mushroom/?snr=1_7_7_comingsoon_150_1",
+      "description": "Yes, you are poisoned. If you find your vision suddenly bursting with vibrant colors, lines twisting around, or even see weird tiny people dancing... do not panic, you are not dead yet! Take control of your fate with a unique shop…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4991340/51a2b80fdc83fe5f385364ccfac761f6be1abd25/header.jpg?t=1788330384",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
       "title": "Moon Shop Simulator",
       "platforms": "PC",
       "href": "https://store.steampowered.com/app/4926780/Moon_Shop_Simulator/",
       "description": "Moon Shop Simulator is a first-person management game where you run a small shop beneath the lunar surface. From your terminal, order goods from Earth, manage cargo taxes, receive deliveries, organize your stock in numbered racks, and…",
       "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocra4.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
+      "title": "Mudang",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5091930/Mudang/?snr=1_7_7_comingsoon_150_1",
+      "description": "The rite never ends on its own. Lay the swarming wraiths to rest, take a god into your body and hold the ground — a Korean shamanic survivors roguelite in which the run ends only when you fall.",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5091930/1b5dbea718362063f440b5f3230033e24819cf93/header.jpg?t=1787750241",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
+      "title": "Nuktedan: The Forgotten Emotions",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4400320/Nuktedan_The_Forgotten_Emotions/?snr=1_7_7_comingsoon_150_1",
+      "description": "Rediscover the 7 emotions lost by a bird with Alzheimer's. Every memory is a color, every color is a power.",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4400320/7b32b14186f1b408afea4396d0bcda60858957fb/header.jpg?t=1788533339",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
+      "title": "Of Nooks and Nonsense: A Pirate Hidden Object Game",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4699670/Of_Nooks_and_Nonsense_A_Pirate_Hidden_Object_Game/?snr=1_7_7_comingsoon_150_1",
+      "description": "Rrrr! The wonderful world Of Nooks and Nonsense is launching with PIRATES! Just past the seven seas is another less popular and more strange sea. Pirate hovels, mermaids, volcanoes and a whole lot of hidden objects in this hand drawn…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4699670/f89415547ccd8ace60cacb1ff718633c130d840f/header.jpg?t=1787606189",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
+      "title": "OminouSushi",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5047430/OminouSushi/?snr=1_7_7_comingsoon_150_1",
+      "description": "A quiet anomaly slips onto the conveyor belt. Drop sushi, merge matching pieces, and evolve them as you chase a high score—but “ominous sushi” arrive without warning. Spot them before they fall, or the belt speeds up toward game over.…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5047430/bfa0789a35f2bc584235f23219ac0e1add59c1ea/header.jpg?t=1788384002",
       "major": false
     },
     {
@@ -374,6 +758,56 @@
     {
       "date": "SEP 08",
       "isoDate": "2026-09-08",
+      "title": "PEGTURE: Peg Solitaire Roguelike",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4295100/PEGTURE_Peg_Solitaire_Roguelike/?snr=1_7_7_comingsoon_150_1",
+      "description": "Pegture is a peg solitaire-themed roguelike, deck-building game. Build your deck, enhance your pegs, perform frenetic combos, beat bosses, reach the highest score and get the best peg solitaire experience.",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4295100/8ddf1c84657d70f39d007dcd6763402fdd4f9407/header.jpg?t=1787752206",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
+      "title": "Permaban",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/2068500/Permaban/?snr=1_7_7_comingsoon_150_1",
+      "description": "It's 2007. You moderate a dying internet forum. Ban trolls, enforce contradictory rules, and try not to lose your mind.",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2068500/1b2a21631688177fcf37e5a131c8b141148d2fa3/header.jpg?t=1788212879",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
+      "title": "Pit of Fears",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3659880/Pit_of_Fears/?snr=1_7_7_comingsoon_150_1",
+      "description": "Pit of Fears is an atmospheric horror, mystery, 2D platform, puzzle, action and adventure game, face all the challenges and dangers of the Pit of Fears, survive the bizarre creatures and solve the mysteries of this distorted alternative…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3659880/bacf8bbd1c189bcfdfb186b4b9710d93b4dbe18c/header.jpg?t=1788640394",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
+      "title": "Planet Nine",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4292170/Planet_Nine/?snr=1_7_7_comingsoon_150_1",
+      "description": "Out there somewhere, but nobody has found it — a planet merge puzzle themed around &quot;Planet Nine&quot; 🚀 Launch planets like billiard balls and merge matching ones, growing from tiny Mercury toward the ninth planet 🌟 3-5 minutes per…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4292170/66ed9f8cd90f224b0dc86eb222660805c029beb2/header.jpg?t=1788723761",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
+      "title": "Restitutor: Empire Restored",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4431750/Restitutor_Empire_Restored/?snr=1_7_7_comingsoon_150_1",
+      "description": "Restitutor is a historical incremental grand strategy game focused on statecraft, diplomacy, and calculated warfare. Strengthen your economy, research new technologies, form alliances, and outmaneuver rivals through high-level strategic…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4431750/9d1ccdf05009bcf0dd39d05651b2814edfa924da/header.jpg?t=1788538092",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
       "title": "Slay the Horde",
       "platforms": "PC",
       "href": "https://store.steampowered.com/app/4380280",
@@ -384,11 +818,51 @@
     {
       "date": "SEP 08",
       "isoDate": "2026-09-08",
+      "title": "Space Carrier Zero",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5042310/Space_Carrier_Zero/?snr=1_7_7_comingsoon_150_1",
+      "description": "One carrier against the sector's whole navy. The guns fire themselves, you steer the bow, pick the route, and decide how long to stay before the alarm brings the fleet down on you. Collect permanent cards that increase your strength each…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5042310/4bdf9b3211a1a4d34d3a656d23a6bede0fa594f3/header.jpg?t=1787612187",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
+      "title": "Spellsteel",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5020290/Spellsteel/?snr=1_7_7_comingsoon_150_1",
+      "description": "A free-to-play fantasy collectible card game where six civilizations battle to claim the legendary Kharadum Codex. Build your deck, command legendary Champions, and master deep tactical PvP.",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5020290/dc51829e347f7aaaf6f8bfdc42fdc21757f08713/header.jpg?t=1788599760",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
       "title": "Sunset Summit",
       "platforms": "PC",
       "href": "https://store.steampowered.com/app/3874450",
       "description": "A co-op group climbing game for 1-8 friends! Head out on a chill but challenging climb with regular checkpoints. Use axes, ropes, pogo sticks, item delivery drones and more to reach the summit. Just remember to watch your step!",
       "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/coc5lo.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
+      "title": "TAMA JIGOKU",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3265560/TAMA_JIGOKU/?snr=1_7_7_comingsoon_150_1",
+      "description": "TAMA JIGOKU: BALL HELL is a spectacular precision-ricochet arcade game. Launch, bounce and blast through 30 alien formations, trigger outrageous powers, save falling balls with a moving portal, and destroy the command ships controlling…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3265560/0bb6978bf87cf5452868a307dfe916692f87a012/header.jpg?t=1788552174",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
+      "title": "The Rallying Ball",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4342670/The_Rallying_Ball/?snr=1_7_7_comingsoon_150_1",
+      "description": "Roll into action in The Rallying Ball! Dodge lava, obstacles and hostile balls, use powerful abilities and race through challenging tracks. Explore the map, overcome obstacles and see how far you can roll!",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4342670/5dcf3904c7a0059231337405828e84230988577b/header.jpg?t=1788192631",
       "major": false
     },
     {
@@ -424,6 +898,46 @@
     {
       "date": "SEP 08",
       "isoDate": "2026-09-08",
+      "title": "TOWERPULSE",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5049040/TOWERPULSE/?snr=1_7_7_comingsoon_150_1",
+      "description": "Climb a living tower in this tactical survival roguelite. Build your arsenal on the move, survive shifting objectives, and break the signal before the tower consumes you.",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5049040/5821c731f9a3c177684f011019d68afb710711c4/header.jpg?t=1788646087",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
+      "title": "Trouble Thief",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5075030/Trouble_Thief/?snr=1_7_7_comingsoon_150_1",
+      "description": "Steal your way through 30 levels. Just pick up the loot and carry it back to the safe zone, no problem. Each level has very challenging time trials and a no-hit challenge. The game is mainly designed around beating the levels as fast as…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5075030/32f71bedff06ab2799df5e8b1521e6ae07b215c7/header.jpg?t=1787314372",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
+      "title": "Underkeep",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5084990/Underkeep/?snr=1_7_7_comingsoon_150_1",
+      "description": "A single-player labyrinth-defense strategy game where you are the final boss. Dig corridors, place monsters and traps, and fold the path into a maze so adventurers never reach your core. Each wave shows you who is coming next — read it,…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5084990/abedb11893202d663309df765e64e29ecc40ea34/header.jpg?t=1787765051",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
+      "title": "UpDown DX",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5177990/UpDown_DX/?snr=1_7_7_comingsoon_150_1",
+      "description": "UpDown DX is a fast-paced arcade game built around one simple mechanic: flip gravity. Master 6 game modes with different rules and challenges that test your reflexes, precision, speed, timing, and puzzle-solving skills.",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5177990/072cf9c1df7b84f92dd6bce7e6cf60098ed86e47/header.jpg?t=1788130931",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
       "title": "Valheim",
       "platforms": "PC · PlayStation 5 · Xbox One · Xbox Series X|S · Nintendo Switch 2",
       "href": "https://store.steampowered.com/app/892970",
@@ -434,11 +948,51 @@
     {
       "date": "SEP 08",
       "isoDate": "2026-09-08",
+      "title": "Violet Stardust",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5116750/Violet_Stardust/?snr=1_7_7_comingsoon_150_1",
+      "description": "A roguelike card battler where you gather cards to advance through endless rooms.",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5116750/f103a21c17f5307e9cc01a4ca3ac6602b48e4b18/header.jpg?t=1787854066",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
+      "title": "VOXEL DRIFT RACER",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5048180/VOXEL_DRIFT_RACER/?snr=1_7_7_comingsoon_150_1",
+      "description": "Top-down arcade drift racing in a voxel world. Race 12 tracks across 12 modes, unlock cars and parts with coins you earn, then build your own circuits and voxel cars in the editors and take them online. No microtransactions.",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5048180/651f03b33234e8fb25165cdd0f542495252bee3b/header.jpg?t=1787833858",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
       "title": "Waifu Wars Online",
       "platforms": "PC",
       "href": "https://store.steampowered.com/app/923830",
       "description": "Kill, loot, and level up with other players in this mysterious online realm. Welcome to WAIFU WARS ONLINE!",
       "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/co3hbj.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 08",
+      "isoDate": "2026-09-08",
+      "title": "郴州字牌：PaoHuZi",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4914510/PaoHuZi/?snr=1_7_7_comingsoon_150_1",
+      "description": "Experience the traditional Chinese card game Pao Hu Zi in a relaxing online multiplayer setting. Enjoy quick global matchmaking or private rooms with friends. Use strategy to outsmart opponents. Warm art and soothing music create the…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4914510/db0934b3000ef6a4326ad61bed4252f45453a5f0/header.jpg?t=1787556468",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "A Dreaming Ladybug",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5111790/A_Dreaming_Ladybug/?snr=1_7_7_comingsoon_150_1",
+      "description": "Shape your garden. Shape your luck. Use flowers and filters to guide ladybugs and change their colors and numbers, then hit the slots in the black moon. Cash out before your ecosystem collapses, or risk it all for a bigger payout. Unlock…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5111790/98fc79a4eb0eaf1d1b053e37978f19b0dc485bd7/header.jpg?t=1788778281",
       "major": false
     },
     {
@@ -464,11 +1018,71 @@
     {
       "date": "SEP 09",
       "isoDate": "2026-09-09",
+      "title": "Alembic",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4933990/Alembic/?snr=1_7_7_comingsoon_150_2",
+      "description": "A falling-sand sandbox built on the **real periodic table**. Every element has genuine physical properties, and reactions emerge from real chemistry — rust iron, ignite thermite, run a galvanic cell, split a uranium pile to criticality.…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4933990/361aed369af71f7c3718444e6b2cf8d8831d9e9c/header.jpg?t=1787713895",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
       "title": "Arc Salvo",
       "platforms": "PC",
       "href": "https://store.steampowered.com/app/4463080",
       "description": "Arc Salvo is a fast-paced online turn-based artillery game featuring explosive team battles, a growing arsenal, and deep character customization.",
       "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/coc8xp.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "ARETIAS: Cursed Island",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5158120/ARETIAS_Cursed_Island/?snr=1_7_7_comingsoon_150_2",
+      "description": "Travel to an isolated island, use your camera to reveal what the naked eye cannot see, and uncover the truth behind a forgotten curse. ARETIAS: Cursed Island is a story-driven first-person horror game focused on exploration, environmental…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5158120/cc2706586a7e2a54d44b07959ccf4df00bfc37f6/header.jpg?t=1787867946",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "ArmedAbyss",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3105970/ArmedAbyss/?snr=1_7_7_comingsoon_150_1",
+      "description": "Defeat monsters in the area and collect items and gear. Upgrade your stats and gear. Defeat the final boss.",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3105970/2ba05aa0dddd232c4d6bf64e08344d442254a605/header.jpg?t=1787960333",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "Artillery Miner",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4391380/Artillery_Miner/?snr=1_7_7_comingsoon_150_2",
+      "description": "An incremental mining game, where you mine through massive blocks using guns, fire, lasers and nuclear missiles. Discover new ores, unlock new worlds and weapons as you progress through the upgrades tree and become the ultimate Artillery…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4391380/715bcdbb8b875a7557a03a890fb415e67aad066d/header.jpg?t=1787877512",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "Backseat",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3098050/Backseat/?snr=1_7_7_comingsoon_150_1",
+      "description": "A psychological taxi horror game where every passenger may be dangerous. Drive through the night, question criminals, read their behavior, hack for clues, and survive each ride to save your kidnapped wife.",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098050/c1f1c924f49c9528daec5035bb2b90ac3fa76d9f/header.jpg?t=1788487335",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "BeaterCore",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3711050/BeaterCore/?snr=1_7_7_comingsoon_150_1",
+      "description": "beaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sports cars. Buy, repair, restore, and race your dream project car",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3711050/218327d5053e8920e01244b483c3fcf72cb59aa4/header.jpg?t=1788508468",
       "major": false
     },
     {
@@ -494,11 +1108,71 @@
     {
       "date": "SEP 09",
       "isoDate": "2026-09-09",
+      "title": "Bookstore Incremental",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4664470/Bookstore_Incremental/?snr=1_7_7_comingsoon_150_1",
+      "description": "A cozy incremental game where you run your own bookstore! Buy hundreds of upgrades, unlock new customers and book types, hire different staff members and build the most profitable bookstore in the world!",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4664470/20c77bf534fff6e4441038374863b5a733761639/header.jpg?t=1788186010",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "Brick by Brick",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5116150/Brick_by_Brick/?snr=1_7_7_comingsoon_150_2",
+      "description": "Sort thousands of colorful bricks, organize them onto shelves, build whatever you can imagine, and unleash the occasional earthquake. Play at your own pace alone or invite friends to join you online in this relaxing first-person brick…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5116150/fb71e869269a0618eb2d7717c5e4b63d09584d42/header.jpg?t=1787443800",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
       "title": "BrokenLore: Don't Lie",
       "platforms": "PC · PlayStation 5 · Xbox Series X|S",
       "href": "https://store.steampowered.com/app/3886200",
       "description": "BrokenLore: DON'T LIE is psychological horror spin-off of DON’T WATCH, where lies, medication and fragile bonds blur the line between reality and nightmare.",
       "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/coakzn.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "Bullet Debt",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5122320/Bullet_Debt/?snr=1_7_7_comingsoon_150_1",
+      "description": "A minimalist arcade arena shooter where your bullets never disappear. Every shot you miss keeps ricocheting until it hits something — an enemy, or you. Dodge your own accumulating crossfire across 50 levels, or turn it on your friends in…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5122320/492f128022b32cb96eaf729a46d07e5839d1510e/header.jpg?t=1788639683",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "Cannabis Clicker",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4766190/Cannabis_Clicker/?snr=1_7_7_comingsoon_150_2",
+      "description": "A laid-back idle clicker about one click and everything that follows. Build something. Ascend. Earn Dank Essence and spend it your way. Go deeper every run. No rush. Just buds.",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4766190/24a41083f678f4fa6242ca84f1f919b18daa2dcc/header.jpg?t=1787625444",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "Car Parkour 3 Together",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5142270/Car_Parkour_3_Together/?snr=1_7_7_comingsoon_150_2",
+      "description": "Take on crazy parkour courses with your friends in a snowy mountain village! Overcome challenging obstacles, navigate icy roads, and make your way to the finish line. Car Parkour 3 Together brings more chaos, more challenges, and more fun…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5142270/bd7c5dae9942183cc9de37d9febe75e7be8a90fe/header.jpg?t=1788612473",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "Chicken Miner",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4622310/Chicken_Miner/?snr=1_7_7_comingsoon_150_2",
+      "description": "Chicken Miner is an incremental game where you can gather massive amounts of resources with the help of chickens. Capture chickens in the hunting grounds, bring them back to your mine, and put them to work mining! The chickens do the work…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4622310/50d72a13bfde02f51e3e7225af765d7a4e6192aa/header.jpg?t=1787343141",
       "major": false
     },
     {
@@ -534,10 +1208,40 @@
     {
       "date": "SEP 09",
       "isoDate": "2026-09-09",
+      "title": "Cockroach Simulation",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4747150/Cockroach_Simulation/?snr=1_7_7_comingsoon_150_1",
+      "description": "Cockroach Simulation A terrifying insect-perspective survival horror game that will make you fear every sound inside the house. You play as a tiny cockroach struggling to survive. Because the homeowner is not always alone.",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4747150/61ff21b9f7f3ec44450a4112f2ab0e41a49ef021/header.jpg?t=1782633678",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "Cordels & Spells",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3543070/Cordels__Spells/?snr=1_7_7_comingsoon_150_1",
+      "description": "Cordels &amp; Spells is an action roguelike set in a magical backlands. Explore challenging maps, collect Enchanted Cordels, unlock unique powers, and face the Commanders of the Sertão with magical weapons, fast builds, and frenetic combat.",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3543070/408cac2b2ffc8fb2ed1dc24b22b4ac787825672c/header.jpg?t=1788696096",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
       "title": "Crafty Survivors: Wicked Winter",
       "platforms": "PC",
       "href": "https://store.steampowered.com/app/4888850",
       "description": "Two new characters added to the roster of the game with their unique skills and mechanics. A whole new region with its own perils to conquer and a brand new type of stage.",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "Cutie Clicker",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5152450/Cutie_Clicker/?snr=1_7_7_comingsoon_150_1",
+      "description": "Plunged into a land of cuteness, you have to collect coins and become a cutie millionaire!",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5152450/4858b8e4b99de4860ce7fdd357e08d31a5183ef1/header.jpg?t=1788437979",
       "major": false
     },
     {
@@ -553,11 +1257,71 @@
     {
       "date": "SEP 09",
       "isoDate": "2026-09-09",
+      "title": "Detective VR",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3939360/Detective_VR/?snr=1_7_7_comingsoon_150_1",
+      "description": "Step into a thrilling narrative investigation in Virtual Reality! In DETECTIVE VR, you control time, collect crucial clues, and interview witnesses to unravel the plot.",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3939360/3ced37c63b2ec5339ccba6f314ced32443d980be/header.jpg?t=1787139366",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "Don't Stop The Pop!",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4608670/Dont_Stop_The_Pop/?snr=1_7_7_comingsoon_150_2",
+      "description": "Ready to turn a single kernel into an unstoppable popcorn machine? Build your strategy with a massive Skill Tree; discover dozens of flavors from salty to chocolatey, spicy to salted caramel, and fill the screen with pops! Earn more, pop…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4608670/615caabfff3ac02bd032945affa6b596eb62fcb6/header.jpg?t=1788112514",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "Ducktile",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5021090/Ducktile/?snr=1_7_7_comingsoon_150_1",
+      "description": "Ducktile is a unique tile puzzle game where movement is based on the direction your character is facing! Forget traditional screen directions and navigate the board through your duck's eyes. Step on every tile to earn maximum stars, and…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5021090/a581d03212183830069e9e40d119bdad5308eaba/header.jpg?t=1788784842",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
       "title": "Dumb Ways to Build",
       "platforms": "PC · PlayStation 5 · Xbox Series X|S",
       "href": "https://store.steampowered.com/app/4412320/Dumb_Ways_to_Build",
       "description": "Dumb Ways to Build is a chaotic, physics-based co-op game. Team up with friends to assemble your crew and take-on dangerous construction jobs. With all the gear and no idea, work together to build your path forward, or die trying!",
       "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocqnw.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "Dungeon Brawls",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4246640/Dungeon_Brawls/?snr=1_7_7_comingsoon_150_2",
+      "description": "Dungeon Brawls is an action roguelike game that supports 4-player co-op. Choose from dozens of heroes and freely combine hundreds of skills and relics. Team up with friends, take on the challenge, and battle through waves of enemies in…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4246640/e1a2e5d3fb2a503a71ecad35be1530b95348ca20/header.jpg?t=1788422085",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "Elemental Witches",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4161420/Elemental_Witches/?snr=1_7_7_comingsoon_150_2",
+      "description": "In Elemental Witches world, you command Fire, Wind, and Thunder to craft unique spells from three elemental orbs. Merge identical elements to summon powerful pets. After each battle, upgrade elements, unlock items, and shape your own…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4161420/dba509b6aed237d1fde69de8e008aa54398d7662/header.jpg?t=1788280998",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "Fidget Toy Engine",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5092870/Fidget_Toy_Engine/?snr=1_7_7_comingsoon_150_2",
+      "description": "Fidget Toy Engine is a desktop app that lets you enjoy a variety of interactive toys. Spin, click, squish, roll, launch, and customize them while you work, study, or relax. Keep your favorites close in a transparent window with satisfying…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5092870/a8ad3a815dce228c94aec17b8676d5efc3d6215e/header.jpg?t=1787435904",
       "major": false
     },
     {
@@ -603,6 +1367,16 @@
     {
       "date": "SEP 09",
       "isoDate": "2026-09-09",
+      "title": "Golden Swirl",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3353800/Golden_Swirl/?snr=1_7_7_comingsoon_150_2",
+      "description": "Golden Swirl is a dark fantasy, semi-real-time action deckbuilder. Master tactical movement to dodge fierce attacks while managing your hand. Fully voiced with custom heroes, fine-tune your deck, relics, and runes to repel the Swirl. Can…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3353800/d8c3c5c4e5d7545e1862643acb6c72d0ee2819de/header.jpg?t=1788750949",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
       "title": "Hazard Pay",
       "platforms": "PC · PlayStation 5 · Nintendo Switch",
       "href": "https://store.steampowered.com/app/2692620",
@@ -643,6 +1417,16 @@
     {
       "date": "SEP 09",
       "isoDate": "2026-09-09",
+      "title": "Increvaders",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3840200/Increvaders/?snr=1_7_7_comingsoon_150_2",
+      "description": "A chill incremental shooter about destroying aliens and getting stronger. Collect souls, unlock upgrades, and enjoy a satisfying loop of constant growth.",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3840200/5c58a897de7de22a7b3950b678a9f6f5326fe969/header.jpg?t=1785004276",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
       "title": "Infinity: HexaDome Tactics",
       "platforms": "PC",
       "href": "https://store.steampowered.com/app/1498550",
@@ -653,11 +1437,71 @@
     {
       "date": "SEP 09",
       "isoDate": "2026-09-09",
+      "title": "INKUBO",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4754110/INKUBO/?snr=1_7_7_comingsoon_150_2",
+      "description": "Eve, who suffers from sleep issues and nightmares, takes pills from Dr. Isaac that put her into REM sleep. She becomes trapped in a loop inside a distorted, other-dimensional version of her own home. She must find anomalies, make the…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4754110/c7f3a7ae7d29d2b13586f4c283581c57d94dd8df/header.jpg?t=1788399709",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "Jiahao",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5001630/Jiahao/?snr=1_7_7_comingsoon_150_2",
+      "description": "Sit tight: a coronation for the annals of the Hao realm. I’m Jiahao, your desktop pet—its absolute strongest, stock investing’s uncrowned king and fashion’s highest peak. What has this loneliness taught you to love? “You misunderstand.…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5001630/65eb2c000979c01229bd73139b06a0921a5c3d31/header.jpg?t=1788792080",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "KN Tower - Build your skyscraper empire",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4994530/KN_Tower__Build_your_skyscraper_empire/?snr=1_7_7_comingsoon_150_1",
+      "description": "Build, expand and manage your own skyscraper in this deep building and management simulation. Design every floor, optimize elevators, manage tenants, businesses and finances. Create a vibrant vertical metropolis.",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4994530/25ed9d0e344f1a094b165e44b42dc5071f09abd6/header.jpg?t=1788737907",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
       "title": "Kubo 3",
-      "platforms": "Nintendo Switch",
+      "platforms": "PC · Nintendo Switch",
       "href": "https://www.nintendo.com/us/store/products/kubo-3-switch/",
       "description": "Kubo 3 is new homebrew NES game from SJ Games (a 7 year old from France and little help from his Dad). The game is available in ROM version to download or can be ordered in complete NES CARTRIDGE edition in box with the manual.",
       "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/co3hi1.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "Last Bastion Protocol",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5063210/Last_Bastion_Protocol/?snr=1_7_7_comingsoon_150_2",
+      "description": "Defend the last evacuation corridors in a tactical tower defense game. Build and upgrade specialized towers, counter varied machine threats, and withstand HECATE's forces across the campaign, Siege, Skirmish, and Endless modes.",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5063210/06b0f940ba7574c76af3e0d6430ab30b794f88dd/header.jpg?t=1787074992",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "LED HEARTS",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5034070/LED_HEARTS/?snr=1_7_7_comingsoon_150_2",
+      "description": "LED HEARTS is an atmospheric sci-fi visual novel about programmer Max who creates the world's first conscious AI named Milly. What happens when the line between code and human soul begins to blur?",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5034070/7fce2699f444abf825c1e2ea09dfe1b7545707ac/header.jpg?t=1787443693",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "Lost Item",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4977580/Lost_Item/?snr=1_7_7_comingsoon_150_1",
+      "description": "You come to your senses in a strange office building. A short walking simulator: patrol all 10 floors flawlessly, collecting every Lost Item along the way. Miss even one—and you're back on the 1st floor.",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4977580/5998bcc73efdc2d82a681ff745aa103fad09d189/header.jpg?t=1785931711",
       "major": false
     },
     {
@@ -673,11 +1517,71 @@
     {
       "date": "SEP 09",
       "isoDate": "2026-09-09",
+      "title": "Mini Court",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5113110/Mini_Court/?snr=1_7_7_comingsoon_150_1",
+      "description": "Become a criminal court judge. Listen to the prosecution and defense, examine the evidence, and decide the sentence yourself in this pixel-art mini-game featuring 43 cases based on real criminal law.",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5113110/48d6821683d07e114f99d7a737397ed30b29be6c/header.jpg?t=1788097285",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "Murdercartel",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5033550/Murdercartel/?snr=1_7_7_comingsoon_150_2",
+      "description": "Embark on an online 2D fantasy MMORPG featuring open-world exploration, challenging dungeons, epic boss battles, gathering, crafting, trading, professions, rare loot, player-driven progression and a persistent multiplayer world full of…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5033550/3ff1acbb9df6a73bee4a31218fe4864276370a1c/header.jpg?t=1788466302",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "Planet Killer",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4454430/Planet_Killer/?snr=1_7_7_comingsoon_150_2",
+      "description": "A physics-driven sci-fi destruction roguelite. Orbit hostile worlds, unleash devastating weapons, and carve real craters into fully simulated planets while escalating planetary defenses fight back.",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4454430/1c461ef7aa009b39ef6bbe92e5de45cc807583c9/header.jpg?t=1788302027",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
       "title": "Platina: Lab",
       "platforms": "PC",
       "href": "https://store.steampowered.com/app/3430470/PLATiNA__LAB/",
       "description": "‘PLATiNA :: LAB’ is a rhythm game that features a classic top-down note drop play style. Play a variety of tracks across different genres, connect with unique and charming DB(character) units, and discover the distinctive appeal that only…",
       "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/co9o52.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "Raider Pheasant",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5040950/Raider_Pheasant/?snr=1_7_7_comingsoon_150_2",
+      "description": "Raider Pheasant is a single-player arcade shoot ’em up viewed from a dramatic high-angle perspective. Blast through enemy formations, power up your fighter, defeat massive bosses, and chase high scores with keyboard or controller.",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5040950/42267bf5817a349dd6e59be942de0a96e5886c29/header.jpg?t=1788427852",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "Reverse T-gotchi",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3881510/Reverse_Tgotchi/?snr=1_7_7_comingsoon_150_2",
+      "description": "What if the roles were reversed? In this first-person horror game, you are a Tamagotchi and your owner sets the rules. Satisfy their whims or your own needs will go unmet.",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3881510/c24b105eae87792248f2604bf5d1844dd7c185f6/header.jpg?t=1788709116",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "Rico Rite",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3618810/Rico_Rite/?snr=1_7_7_comingsoon_150_2",
+      "description": "A breakout roguelike where the balls fight for you. Draft a party of bouncing heroes, aim them into descending swarms, and chain ricochets to climb a combo meter that speeds your heroes up.",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618810/1211194c07c8c682ec64cccc0a5de9741580367e/header.jpg?t=1788539052",
       "major": false
     },
     {
@@ -730,11 +1634,91 @@
     {
       "date": "SEP 09",
       "isoDate": "2026-09-09",
+      "title": "Slime Slayer: Endless Loot",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4522480/Slime_Slayer_Endless_Loot/?snr=1_7_7_comingsoon_150_2",
+      "description": "Click to aim, reap souls, enjoy pop-bubble hack-and-slash. An incremental ARPG focused on looting and build crafting. Build unique setups from 9 classes and 100+ core talents. Change combat rules with hundreds of uniques and Gemword system.",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4522480/85e225191bd33a903e971345c59f5d729af6ce5a/header.jpg?t=1788701884",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "SPACE JK",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5105400/SPACE_JK/?snr=1_7_7_comingsoon_150_1",
+      "description": "A laid-back idle life sim where you watch over cute pixel-art roommates called JK. Collect furniture, decorate the room, and build your own sticker book from the stickers they draw for you every day. Trade with other players for the ones…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5105400/443fc1089b9fe857b73476ac18e2685d37e36652/header.jpg?t=1787813805",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "Strip Mall Simulator",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5050290/Strip_Mall_Simulator/?snr=1_7_7_comingsoon_150_2",
+      "description": "Start with your corner store, and build up your strip mall! Open new stores, manage inventory and employees, and unlock new merchandise! Play alone or with friends.",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5050290/e2b37ec458e6393db9ef668cb8eb1a577ba3dc19/header.jpg?t=1787703495",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "Super Glitch Dash",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5054380/Super_Glitch_Dash/?snr=1_7_7_comingsoon_150_1",
+      "description": "A rhythm-driven first-person impossible runner where every beat tests your reflexes. Dodge brutal obstacles, master handcrafted levels, and chase the perfect run through hypnotic abstract worlds.",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5054380/2181ee8e5be9eb422aa78cc273ef31beb29252eb/header.jpg?t=1786959585",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "Super Takoyaki Battle",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5086590/Super_Takoyaki_Battle/?snr=1_7_7_comingsoon_150_1",
+      "description": "Experience takoyaki-making like never before! Make as many as you can in an all-out battle!",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5086590/fc2756b5ccca5883c39b73d9956e67c5aed2312d/header.jpg?t=1787903316",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "SuperStore Simulator",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5127970/SuperStore_Simulator/?snr=1_7_7_comingsoon_150_2",
+      "description": "Build, manage, and expand your own supermarket from scratch! Stock shelves with popular products, set strategic prices, handle checkout payments, hire staff, and build the ultimate supermarket empire in town.",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5127970/b9e3cb179c3bf1b4e47f95006230563710933d96/header.jpg?t=1788293629",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "Swarmvore",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5067670/Swarmvore/?snr=1_7_7_comingsoon_150_2",
+      "description": "An idle swarm devours everything in its path. Feed it, evolve a 29-node lab tree, and descend deeper into a well of living, hostile structures — until your swarm is strong enough to devour the Core of the Well itself.",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5067670/b6d87271ddc4f842a66017c8a1ba876aee367b46/header.jpg?t=1787182696",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
       "title": "Takeover 2",
       "platforms": "PC",
       "href": "https://store.steampowered.com/app/4423270",
       "description": "Take to the streets solo or with a partner in this fast paced, high-impact arcade beat ’em up. Takeover returns with refined gameplay, upgraded visuals and a pulse-pounding new soundtrack.",
       "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cobsqy.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "Tales Of Glory 4 : Ragnarok",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4274260/Tales_Of_Glory_4__Ragnarok/?snr=1_7_7_comingsoon_150_2",
+      "description": "Before Kvir rose, its tribes lived under Eastbornian rule. As shadows stir beneath the snow, you must unite the North and spark the dawn of a realm destined for glory. The storm is coming — and nothing will be the same.",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4274260/eab27a5e23efb98cfa241160afcd77321213bb0c/header.jpg?t=1788783841",
       "major": false
     },
     {
@@ -760,6 +1744,26 @@
     {
       "date": "SEP 09",
       "isoDate": "2026-09-09",
+      "title": "The Forlorn",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5122800/The_Forlorn/?snr=1_7_7_comingsoon_150_2",
+      "description": "Fight for your life through five nights (technically six) in this hand-drawn 2D game of resource-management and survival. Keep the fire lit, sharpen your sword, and fend off progressively angrier creatures in the Cursed Forest. Comes with…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5122800/ed8347245257336594f0bdfc9de127b26917584f/header.jpg?t=1788645549",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "The Legend of Fancy Realm Remake",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4030150/The_Legend_of_Fancy_Realm_Remake/?snr=1_7_7_comingsoon_150_2",
+      "description": "The Legend of Fancy Realm Remake is a story driven tactical RPG that brings a long cherished SRPG classic back to life. Set in a vast fantasy world shaped by ancient wars, the game weaves together turn based tactical combat and character…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4030150/d0cf2fdb5f7be154aef2a6c5cdacb32d3dc9538a/header.jpg?t=1786418738",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
       "title": "The Legend of Heroes: Trails from Zero",
       "platforms": "PlayStation 5 · Nintendo Switch 2",
       "href": "https://store.steampowered.com/app/1668510",
@@ -780,6 +1784,16 @@
     {
       "date": "SEP 09",
       "isoDate": "2026-09-09",
+      "title": "TORO 2",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4782390/TORO_2/?snr=1_7_7_comingsoon_150_1",
+      "description": "Toro 2 is a 3D bullfighting simulator where you'll experience the thrill of bullfighting in the world's most famous bullrings in Career Mode. Challenge your friends in fast-paced Versus Mode, where you can choose between the raw power of…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4782390/6cccbc222e2f1d9edb6908c63c575314a02c255f/header.jpg?t=1788272599",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
       "title": "Train Sim World 7",
       "platforms": "PC",
       "href": "https://store.steampowered.com/app/4678800",
@@ -790,11 +1804,31 @@
     {
       "date": "SEP 09",
       "isoDate": "2026-09-09",
+      "title": "Travel Agency Simulator",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3169570/Travel_Agency_Simulator/?snr=1_7_7_comingsoon_150_1",
+      "description": "Build a global travel empire through idle-clicker management, then step inside your agency in an interactive 3D office minigame. Sell and upgrade travel products, hire managers, automate profits, serve customers, customize your office,…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3169570/afb469c6d850147cdea82c85b76073b1499562ad/header.jpg?t=1788519639",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
       "title": "Tsukikomori",
       "platforms": "Nintendo Switch",
       "href": "https://www.twitch.tv/directory/game/Tsukikomori",
       "description": "Tsukikomori is an Adventure game, developed by Pandora Box and published by Banpresto, which was released in Japan in 1996.",
       "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/co3rhp.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "War of Genesis: Idle Loot",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4891320/War_of_Genesis_Idle_Loot/?snr=1_7_7_comingsoon_150_2",
+      "description": "Just leave it running. The rest takes care of itself. In a small corner of your desktop, a 3D War of Genesis hero fights and loots all on its own. Snag good gear and trade it on the Steam Community Market. It's idle, yet you can't stop…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4891320/80d3cc10f37c03a6b520846baf44883651132896/header.jpg?t=1788500960",
       "major": false
     },
     {
@@ -820,11 +1854,51 @@
     {
       "date": "SEP 09",
       "isoDate": "2026-09-09",
+      "title": "Warlord: Awaji",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3123060/Warlord_Awaji/?snr=1_7_7_comingsoon_150_2",
+      "description": "Lead a samurai invasion into the mysterious island of Awaji! Recruit, promote, and upgrade your warriors while navigating the ancient world of feudal Japan. Use samurai weapons and strategies to conquer the entire island and become Warlord!",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123060/dedefa92d746f70050c21c0e0ca1d69a15902ae0/header.jpg?t=1788793749",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
       "title": "Welcome to Elderfield",
       "platforms": "PC",
       "href": "https://store.steampowered.com/app/3195440/Welcome_to_Elderfield/",
       "description": "Welcome to Elderfield is a spooky farming RPG. You can farm, fish, mine, cook, craft, befriend townsfolk, beseech the old gods, investigate mysteries, watch unsettling news programs, get lost in the dead mall, die in your sleep and more.…",
       "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/co8xtd.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 09",
+      "isoDate": "2026-09-09",
+      "title": "Yokai Parade",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5044780/Yokai_Parade/?snr=1_7_7_comingsoon_150_2",
+      "description": "A resident idle game where a yokai parade ambles along the bottom of your screen. Fill your codex while you work; the koban they gather unlock rarer, stranger spirits... maybe. Now and then, a festival lights up the night market. Care to…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5044780/724110fd6086198dcdeb1e960553cb13c81835ee/header.jpg?t=1788182837",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "13 Playing Cards Of Demon",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/2503990/13_Playing_Cards_Of_Demon/?snr=1_7_7_comingsoon_150_2",
+      "description": "Roguelike meets poker in 13 playing cards of demon— a deckbuilder that chases perfection. Learn skills, master the Texas Hold'em rules and 13‑card rules, choose cards wisely, hunt epic loot, awaken demonic might. Crush the Demon Arena's…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2503990/bcf0cdd598dc44c9f76af9b05d11105bbd4053dd/header.jpg?t=1788655964",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "Agents! Please?",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5166150/Agents_Please/?snr=1_7_7_comingsoon_150_3",
+      "description": "The AI writes all the code. Confidently. Wrong. You are the last human reviewer. Interrogate the swarm, run the code, catch the lie. Fix it, or ship it anyway. Next comes a problem, a recall, a funeral, or the end of the world. Plays…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5166150/3df1028e4bdfa5159a019d96150819e920b7e650/header.jpg?t=1788544300",
       "major": false
     },
     {
@@ -835,6 +1909,46 @@
       "href": "https://store.steampowered.com/app/3393280/Anime_Shop_Simulator/",
       "description": "Manage your own anime shop. Play solo or team up with friends in 4-player co-op mode to grow your business. Stock shelves with manga, figures, and collectible cards in this immersive first-person game.",
       "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocrwx.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "ANOMALOGIST: Inumaki Manor",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4951500/ANOMALOGIST_Inumaki_Manor/?snr=1_7_7_comingsoon_150_2",
+      "description": "An abandoned fusion mansion, &quot;The Inumaki Estate.&quot; Dive into this 1st-person paranormal investigation horror. As a cursed-property investigator, use advanced devices to record phenomena into digital data, pinpointing coordinates…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4951500/45faaabd77a31ac35517ffdd6c9867a1c865058d/header.jpg?t=1787891451",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "Asteroid Destroyer",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5117330/Asteroid_Destroyer/?snr=1_7_7_comingsoon_150_2",
+      "description": "Take control of your spacecraft, destroy asteroids and survive increasingly dangerous waves of cosmic threats.",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5117330/71217db9ee826616f0f17052fc3cfcf93e24c19d/header.jpg?t=1788406997",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "Aura Farmer 67",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5003040/Aura_Farmer_67/?snr=1_7_7_comingsoon_150_2",
+      "description": "A humorous incremental clicker about farming Aura, buying absurd upgrades, and turning an ordinary gym-goer into a cosmic entity. Click, automate your farm, rebirth stronger, and keep progressing even while you are offline.",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5003040/2a0a663b798b740fbfa3cfb5a280030b7681af38/header.jpg?t=1788526154",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "Aura Farming Simulator",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5044340/Aura_Farming_Simulator/?snr=1_7_7_comingsoon_150_2",
+      "description": "Test your speed, farm your Aura, and claim the #1 spot on the global leaderboards! Aura Farming Simulator is a fast-paced 3D arcade score-attacker. Score as much Aura as possible, level up, and customize your character in this addictive…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5044340/1abd49160bd2701c0a84e345da615eb9dddb0477/header.jpg?t=1788395768",
       "major": false
     },
     {
@@ -860,6 +1974,86 @@
     {
       "date": "SEP 10",
       "isoDate": "2026-09-10",
+      "title": "Big Breakfast 2",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4839090/Big_Breakfast_2/?snr=1_7_7_comingsoon_150_2",
+      "description": "In a world without Breakfast, one man decides to challenge fate! The debut RPG from Stahmpin' Grounds Studios, Big Breakfast 2, is an old-school turn-based RPG in the style of classic fantasy RPGs from the 8 bit era.",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4839090/a45d7088dc44201390e8581880f98dc866e98cf2/header.jpg?t=1782288808",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "Black Gold: Oil Drilling Simulator",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/1473260/Black_Gold_Oil_Drilling_Simulator/?snr=1_7_7_comingsoon_150_2",
+      "description": "Step into the grit of the early 20th-century oil boom. Build your drilling empire from the dirt up chop timber, maintain rusty machinery, and manage a rugged crew. Strike black gold, overcome ruthless crises, and turn raw earth into an…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1473260/90c5a4d9af0984e2c27b5e3fc90619dde912d249/header_alt_assets_1.jpg?t=1787739933",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "Blackmere",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5117120/Blackmere/?snr=1_7_7_comingsoon_150_2",
+      "description": "buried fortress that answers questions instead of housing them. Twenty-one chapters down, with four weapons, no map, and a lamp that interrogates the dark — hidden ground exists only while you are asking. Read what the last expedition…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5117120/e1cec8f536c19591ea4877da0563ee79cc9a2de2/header.jpg?t=1788722143",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "Clamor: Bounty Hunter Pinball",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5138150/Clamor_Bounty_Hunter_Pinball/?snr=1_7_7_comingsoon_150_2",
+      "description": "Battle your way through waves of enemies in an explosive video-pinball arena. Choose your balls and embark through 4 randomized stages. Use each ball's unique tilt power to turn the odds to your favor.",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5138150/828de85746faf714f8ee2ea6c642efc7c726df98/header.jpg?t=1787777926",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "Commit!!!",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4994630/Commit/?snr=1_7_7_comingsoon_150_2",
+      "description": "A career-sim roguelite about surviving the software industry. Take the job, inherit someone else's legacy monolith, ship commits, fix the bugs you planted, then outrun the tech debt that compounds while you sleep. Rent's due, burnout's…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4994630/111cf35ddce182daf89083d5f89c8b63a15bd449/header.jpg?t=1787751976",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "Crack Smoking Simulator",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5131340/Crack_Smoking_Simulator/?snr=1_7_7_comingsoon_150_2",
+      "description": "Crack Smoking Simulator is a game where you can simulate smoking crack. A silly retro-styled point-and-click game with one goal - smoke as much crack as you want.",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5131340/a1a5f9b76e0950a235b385a5d6851eaeb587b7bb/header.jpg?t=1787831966",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "Critical Chaos",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4203420/Critical_Chaos/?snr=1_7_7_comingsoon_150_2",
+      "description": "A family, a broken squad, and a world at war. Critical Chaos is a story-driven, turn-based RPG about reluctant heroes who never asked to save the world, but know they must fight for what's right anyway. Build your team, explore freely,…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4203420/c36496df24b61c36fe95860b685733e0fd3242c7/header.jpg?t=1787269184",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "Cursed and Fading",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4662180/Cursed_and_Fading/?snr=1_7_7_comingsoon_150_2",
+      "description": "Find the lich that has cursed you and defeat them! Use your stats wisely, for they are also your lifeblood. Every movement costs you something. Start strong and fight your way across Small, Medium, and Large map sizes. When you die,…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4662180/347475307bb9fdd8a63487f8ff96214dd058bc7d/header.jpg?t=1788382194",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
       "title": "Cursed District: Horror",
       "platforms": "Nintendo Switch",
       "href": "https://www.nintendo.com/us/store/products/cursed-district-horror-switch/",
@@ -875,6 +2069,92 @@
       "href": "https://store.steampowered.com/app/3998990",
       "description": "In a dystopian future, Agent Seth investigates a corporate geological facility where a biological gas turned people into bloodthirsty monsters. Fight through enemy hordes, uncover a dark corporate conspiracy, and face Lovecraftian…",
       "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocsba.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "Dirt Fishing: Metal Detecting Simulator",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5039190/Dirt_Fishing_Metal_Detecting_Simulator/?snr=1_7_7_comingsoon_150_3",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "DOGEZA",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4932770/DOGEZA/?snr=1_7_7_comingsoon_150_2",
+      "description": "A first-person Japanese horror game set in a cursed castle. As a lord with fading memories, explore the grounds at night, uncover the regrets of the dead, and atone the only way you can — by performing DOGEZA, the deepest bow of apology.…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4932770/dafae6f3d12184be4148a7df5d8a259cb014c6d4/header.jpg?t=1788236189",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "EQUILIBRIUM",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4661850/EQUILIBRIUM/?snr=1_7_7_comingsoon_150_3",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "ESCAPEAWAY!",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5143520/ESCAPEAWAY/?snr=1_7_7_comingsoon_150_2",
+      "description": "Put your quick reflexes to the test with ESCAPEAWAY! an endless runner and platformer with a retro aesthetic.",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5143520/221a68a21230ed2e2aee010c1e42e85a6b0e845a/header.jpg?t=1788204192",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "Ex Sanguis",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3275050/Ex_Sanguis/?snr=1_7_7_comingsoon_150_2",
+      "description": "Bleed the world back to life in a series of tactical, turn-based bloodbaths! Lead your STILLAE, elite warriors in the fight to save a dying world from the forces of STASIS. Slay foes, kick them back on the timeline, and trigger chain…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3275050/b837e3d58d0d8674db3b405cbe1fd094018ced15/header.jpg?t=1786028227",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "Forsworn",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3560360/Forsworn/?snr=1_7_7_comingsoon_150_2",
+      "description": "Stack game-breaking synergies until your party can slay gods. Command a party of heroes, forge powerful synergies, and level them up across runs in this turn-based tactics roguelite. Battle the gods solo or in co-op, where defeat is just…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3560360/95afd9e30101e40d544899eb9968d9d02236ae59/header_alt_assets_0.jpg?t=1788544167",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "Fresh Tracks VR",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4200240/Fresh_Tracks_VR/?snr=1_7_7_comingsoon_150_2",
+      "description": "The critically acclaimed rhythm roguelite, Fresh Tracks, is now in VR! Jump, dodge, and fight to the rhythm of the gods in this thrilling music-action game on skis. Take on obstacles and menacing enemies as you ski further into the…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4200240/03550d79244dc7fea2d1cb259124e6087a7c6245/header.jpg?t=1787844024",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "Frontier: Path of Shadows",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3570490/Frontier_Path_of_Shadows/?snr=1_7_7_comingsoon_150_2",
+      "description": "X-COM inspired tactical game. 25th century. The war with the mysterious Utopia is over — but new threats emerge. Come to the vast Frontier: assemble your crew, face tough choices, explore unknown worlds and win tactical battles!",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3570490/66fcaf63398d2fa735f43d2536633df31f702742/header.jpg?t=1788448510",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "GameOvrd2",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5146490/GameOvrd2/?snr=1_7_7_comingsoon_150_2",
+      "description": "GameOvrd2 is a retro-inspired precision platformer packed with deadly traps, handcrafted levels, and chaotic boss fights. Learn the patterns, master the challenges, and get faster with every run.",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5146490/f9c300ab2d159ed3865598bffd5ab18dec2fcd18/header.jpg?t=1788619553",
       "major": false
     },
     {
@@ -900,11 +2180,135 @@
     {
       "date": "SEP 10",
       "isoDate": "2026-09-10",
+      "title": "Gunman Contracts - Stand Alone",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/2421750/Gunman_Contracts__Stand_Alone/?snr=1_7_7_comingsoon_150_2",
+      "description": "&quot;Gunman Contracts - Stand Alone&quot; is an intense, action-movie inspired single player shooter created for VR and Non-VR. As a professional hitman, take on ruthless forces in the criminal underworld - one contract at a time.",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2421750/485415c36bcefe36cbed8d8cef7d1b1eb2169c83/header.jpg?t=1788195298",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "Gunshot Survivors VR",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4382850/Gunshot_Survivors_VR/?snr=1_7_7_comingsoon_150_2",
+      "description": "Gunshot Survivors VR is a VR roguelike shooter where you upgrade your gun and defeat enemies to survive. Build the ultimate gun and defeat the robot swarm!",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4382850/90a148cbdb9ad6caa1ec531eb17b425344a6fd3b/header.jpg?t=1787389554",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "HOT WHEELS™ Infinite Rush",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/2821390/HOT_WHEELS_Infinite_Rush/?snr=1_7_7_comingsoon_150_2",
+      "description": "Jump into a Hot Wheels™-sized world with four islands packed with events, challenges and full-throttle mayhem. Collect iconic vehicles, assemble your Rush Squad, build epic tracks, and earn the title of Rush Master.",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2821390/fcc8da12187b981034dd54170d47b45db8e22b8e/header.jpg?t=1788512136",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "Hyperboard Extreme",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4892910/Hyperboard_Extreme/?snr=1_7_7_comingsoon_150_3",
+      "description": "Hyperboard Extreme combines PS2-era arcade style racing with cool girls, crazy powerups, and intense, speedy action! This is a free vertical slice as a complete proof-of-concept for the next generation of indie racers!",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4892910/c7e432c52bda72657f19de1a9c05461637e25367/header.jpg?t=1786571703",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "I Need to Fix My Dream Car (But I Work at a Junkyard)",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3889540/I_Need_to_Fix_My_Dream_Car_But_I_Work_at_a_Junkyard/?snr=1_7_7_comingsoon_150_3",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "Idle Mall Simulator",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4970660/Idle_Mall_Simulator/?snr=1_7_7_comingsoon_150_3",
+      "description": "Build and expand your own shopping mall in this fun idle simulation game. Open new stores, increase your profits, keep customers happy, and turn your mall into a thriving business empire!",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4970660/65fc1b3e9fd607d0c42de336bc32c20b6dd09bff/header.jpg?t=1786999679",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "Journey to Echo",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4895560/Journey_to_Echo/?snr=1_7_7_comingsoon_150_3",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "La eclissi",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5116560/La_eclissi/?snr=1_7_7_comingsoon_150_2",
+      "description": "La eclissi is a card RPG divided into two parts: a visual novel following young people living in a society rife with order enforced through violence, and a battle mode driven by blackjack and dice.",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5116560/8206cba05daa56ca22ae2a5c9ff6c09565042fc3/header.jpg?t=1787881646",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "Late Order",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4147170/Late_Order/?snr=1_7_7_comingsoon_150_2",
+      "description": "Night shifts at a cursed 24/7 diner. Every night — new rules and unsettling events. Fulfill orders, don't annoy the bizarre monster in the mascot's body, and maybe you'll have a chance to survive until dawn.",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4147170/419b3b93dd573d7f7650bb612ac017386da54ab3/header.jpg?t=1786963762",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
       "title": "Life of a Thug",
       "platforms": "PC",
       "href": "https://store.steampowered.com/app/2948130",
       "description": "This game throws you into the shoes of a character struggling to survive in a corrupt ghetto overrun by gangs, mafia bosses, and crooked politicians. This is no ordinary RPG; Life of a Thug is designed for players who dare to delve into…",
       "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/co8dk7.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "Loop Miner",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4715320/Loop_Miner/?snr=1_7_7_comingsoon_150_3",
+      "description": "Loop Miner is a mining incremental game where a cute mole miner endlessly digs through mines, gathers resources, collects artifacts, and ventures deeper underground. Experience the satisfaction of growing stronger through endless mining…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4715320/e4f0a333bdd079d1d16acdd6b8cbcabc471c1b0f/header.jpg?t=1788185215",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "Maze Quest Odyssey",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5135280/Maze_Quest_Odyssey/?snr=1_7_7_comingsoon_150_3",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "Monster Alchemy",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4013510/Monster_Alchemy/?snr=1_7_7_comingsoon_150_2",
+      "description": "Create unique creatures, use them to gather rare resources, and fuse them into even more powerful beings! This RPG combines classic exploration with a deep crafting system where your monsters are your ultimate tool for looting, combat,…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4013510/945698075b3eaeb855fc1ca58d05711cc6017165/header.jpg?t=1788544509",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "Monster Shop Simulator",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3611450/Monster_Shop_Simulator/?snr=1_7_7_comingsoon_150_2",
+      "description": "Sell magical eggs, hatch rare monsters, and build the ultimate monster shop. Collect valuable creatures, set your prices, grow your business, and expand your store.",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3611450/937d900955024359b85eb594cf8ca92b46f9ad64/header.jpg?t=1787066630",
       "major": false
     },
     {
@@ -920,11 +2324,105 @@
     {
       "date": "SEP 10",
       "isoDate": "2026-09-10",
+      "title": "Night Club Simulator: Party King",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3120460/Night_Club_Simulator_Party_King/?snr=1_7_7_comingsoon_150_2",
+      "description": "Step into the vibrant world of nightlife! Create, manage &amp; customize your own nightclub, solo or co-op. From hiring staff and organizing events to setting the perfect atmosphere with music &amp; lighting, every choice you make will…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3120460/11af6a0307ef82559d31f288e0dc15f1e8d288db/header.jpg?t=1788385923",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
       "title": "Nightpark Journal",
       "platforms": "PC",
       "href": "https://store.steampowered.com/app/3649690",
       "description": "A dreamcore roguelike deck builder. Explore the mysterious Nightpark as three youths, each with distinct abilities. Build unique decks for each of them, defeat enemy adults and fiends, and uncover hidden secrets.",
       "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/coawl1.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "Orebits",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3635490/Orebits/?snr=1_7_7_comingsoon_150_2",
+      "description": "Bounce your pickaxe and smash through asteroids in this futuristic mining incremental! Explore a roguelite tech tree, discover gravitational anomalies, and deliver resources back to Earth. Upgrade and explore space to discover what…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3635490/99f7fb63706f936253daee9522501a36998caa82/header.jpg?t=1788771375",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "PARROT CLICKER",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5144670/PARROT_CLICKER/?snr=1_7_7_comingsoon_150_2",
+      "description": "PARROT CLICKER is a colorful 2D clicker game where every click grows your Parrot party. Upgrade facilities, hatch powerful egg buffs, complete challenges, reincarnate for Gems, and keep the party going forever.",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5144670/70f329e135792f0549402056c1901bd05e06ad18/header.jpg?t=1787918847",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "Piano Warrior",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4968350/Piano_Warrior/?snr=1_7_7_comingsoon_150_2",
+      "description": "Tap piano tiles, battle rivals, build and share your songs!",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4968350/eb2c75aaeb76b1306db9c4def6f6fd4141931dba/header.jpg?t=1787658676",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "Plan B: Colombia Edition",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3968220/Plan_B_Colombia_Edition/?snr=1_7_7_comingsoon_150_2",
+      "description": "A criminal production simulator where you build an underground empire, manage logistics, and risk everything for “white product” — including air export routes and a constant cat-and-mouse game with the law.",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3968220/29c1ca395f99e163b2f11499464995f40a9fec16/header.jpg?t=1770849095",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "Play the Wor!d",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4727440/Play_the_Word/?snr=1_7_7_comingsoon_150_3",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "Pool Shark",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4959800/Pool_Shark/?snr=1_7_7_comingsoon_150_2",
+      "description": "Real 8-ball physics with fake money on every rack. A roguelike deckbuilder built on pool: draft from 204 cards, call your shots, run eighteen money matches in one night, and settle a $12,500 debt before close. Then take it online — ranked…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4959800/bf38c1ec45f49a8cf9e65164c1e0c386a417527d/header.jpg?t=1787029571",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "Quiet Hour",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4697110/Quiet_Hour/?snr=1_7_7_comingsoon_150_2",
+      "description": "The prohibition is back! Build, decorate and manage your very own underground speakeasy. Just make sure to keep it down, or you will spend the night in handcuffs!",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4697110/5668c034ff099f527de16ad10102d38edb9d47d9/header.jpg?t=1788400103",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "Refund Me TD",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5159600/Refund_Me_TD/?snr=1_7_7_comingsoon_150_3",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "RIPGRAZE",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5117020/RIPGRAZE/?snr=1_7_7_comingsoon_150_3",
       "major": false
     },
     {
@@ -940,11 +2438,105 @@
     {
       "date": "SEP 10",
       "isoDate": "2026-09-10",
+      "title": "Roomrush Racer",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4729940/Roomrush_Racer/?snr=1_7_7_comingsoon_150_2",
+      "description": "Race across 25 tracks set in 20 chaotic rooms and choose from 27 characters. Play solo, with up to 4 players in local split-screen, or online with up to 12 players. Collect items, work together to win cups, play Roomrush Ball, and create…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4729940/23392fdeba7804a2bee152d625e401d32c4b8a8c/header.jpg?t=1788766508",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
       "title": "Ruptured Floor",
       "platforms": "PC",
       "href": "https://store.steampowered.com/app/4927240/Ruptured_Floor/",
       "description": "Ruptured Floor is a puzzle horror game set in surreal office spaces. It tells a story about depression and work. The protagonist needs to find a way to escape, and uncover dark secrets in the process.",
       "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocucw.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "Samgood Chronicles DragonFall",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5116130/Samgood_Chronicles_DragonFall/?snr=1_7_7_comingsoon_150_3",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "Selection Kingdom: Level 1 - Limited -",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/2499540/Selection_Kingdom_Level_1__Limited/?snr=1_7_7_comingsoon_150_2",
+      "description": "Yandere Party is a 2D survival-horror role-playing game in which you have to to keep an eye on the cameras and take action to avoid your evil ex and her good friends! Also, Selection Kingdom is a game series of 2D watch-and-run genre and…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2499540/5ab4c7fe65592197d66f5750954bceb67c738c65/header.jpg?t=1788784128",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "Shady job",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4190710/Shady_job/?snr=1_7_7_comingsoon_150_2",
+      "description": "A co-op adventure game. The mafia wants to get rid of a body. You’re construction workers. Your job: carry a body bag to the top of a skyscraper. Bury it in concrete. Two problems. First: You have to build the way up. Second: The body’s…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4190710/c467f0b9feacd07f139cbfe7a9ea71979353c006/header.jpg?t=1788774964",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "SIMPLE ACTION",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5157140/SIMPLE_ACTION/?snr=1_7_7_comingsoon_150_3",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "SIX SECOND SHADOW",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5009600/SIX_SECOND_SHADOW/?snr=1_7_7_comingsoon_150_2",
+      "description": "A neon precision platformer where every room lasts six seconds — and your own shadow chases you, repeating your moves one second behind. 90 verified rooms plus ESCAPE: ten long maps with no clock and no way back. Outrun yourself.",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5009600/a99162ed9c556266b4151a0b4294b8bb2efcaec6/header.jpg?t=1786882530",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "Solitaire Adventure",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4960780/Solitaire_Adventure/?snr=1_7_7_comingsoon_150_3",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "Solvimus",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3980290/Solvimus/?snr=1_7_7_comingsoon_150_2",
+      "description": "A two-player co-op puzzle game with 30 challenging levels. Work together, solve puzzles, and practice deep breathing as your partner &quot;figures it out.&quot;",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3980290/f8374cd8ea138d58248d0e09dd5e4b7655034abf/header.jpg?t=1788466839",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "Spiritus Sancti",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3954460/Spiritus_Sancti/?snr=1_7_7_comingsoon_150_2",
+      "description": "Spiritus Sancti is a first-person psychological horror where your voice is your weapon. Speak sacred rites through your microphone to repel, stun, and exorcise the forces of darkness. Every encounter is real-time, every word a test of…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3954460/57f2ba1b4173fab60ce43993e6f730613d7cec3f/header.jpg?t=1788429169",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "Stall Quest",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4869490/Stall_Quest/?snr=1_7_7_comingsoon_150_2",
+      "description": "A shopkeeping simulation RPG for those who loved leaving shops open in old-school MMOs! Open a stall in Rei's dream, sell items gathered from dungeons, buy gear, and dive back in. Packed with 48 enemies, 30 items, and excitement! Try it…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4869490/9869ec6795880d9b6cca5311a6c58d56280060a2/header.jpg?t=1786557754",
       "major": false
     },
     {
@@ -960,11 +2552,95 @@
     {
       "date": "SEP 10",
       "isoDate": "2026-09-10",
+      "title": "TapyBuddy",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5077450/TapyBuddy/?snr=1_7_7_comingsoon_150_3",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "Temple 13 - Time Collapse",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5071920/Temple_13__Time_Collapse/?snr=1_7_7_comingsoon_150_3",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "The Last of RAM",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4577980/The_Last_of_RAM/?snr=1_7_7_comingsoon_150_3",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
       "title": "The Loopler",
       "platforms": "PC",
       "href": "https://store.steampowered.com/app/4150860",
       "description": "The Loopler is a idle-like roguelite simulation of a car driving in loops. Pick upgrades, place gates and sit back and relax as the mesmerizing loop gets going and the dopamine hits of numbers going up fills your brain. See if you can go…",
       "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cobnlo.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "Tides of Caldmere",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5146290/Tides_of_Caldmere/?snr=1_7_7_comingsoon_150_2",
+      "description": "A dark-fantasy tactical RPG where turn order flows on a living timeline, not rigid phases. Lead a war-band across a breaking realm: flank, seize the high ground, bend the timeline with tempo skills, and spend Resolve on desperate saves or…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5146290/5cb9b48700143638c9f19b1816cc773e75aea78c/header.jpg?t=1788421375",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "Time Gamers: Guardians of the Marble Man",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4777610/Time_Gamers_Guardians_of_the_Marble_Man/?snr=1_7_7_comingsoon_150_3",
+      "description": "Guardians of the Marble Man is a historical adventure set in 1864 Columbia, South Carolina, recreated through years of research. As a Time Gamer, you search for the lost Roman statue of John C. Calhoun, uncovering secrets tied to…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4777610/9094089bea94370c11d300c0d85c75dfbf97cbb7/header.jpg?t=1788267574",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "Titan's Shadow Killers",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3877700/Titans_Shadow_Killers/?snr=1_7_7_comingsoon_150_2",
+      "description": "Become a Shadow Killer and confront monsters and criminal organizations in a brutal hack-and-slash game featuring dismemberment, fast-paced combat, epic bosses, and a linear, action-packed campaign.",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3877700/af728fbc388bd02bdd053e2ab8f52872f9a4a200/header.jpg?t=1788322367",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "Total Futsal Manager",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5113640/Total_Futsal_Manager/?snr=1_7_7_comingsoon_150_2",
+      "description": "Take control of a futsal club and build your career season after season. Manage your squad, transfers, contracts, training, tactics, finances, and dressing room as you compete to take your team all the way to the top.",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5113640/8f0b67f20f1c9b5b127100c196986a2321b61589/header.jpg?t=1787915485",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "Vacation Adventures: Park Ranger Mega Bundle 1",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5052440/Vacation_Adventures_Park_Ranger_Mega_Bundle_1/?snr=1_7_7_comingsoon_150_2",
+      "description": "A Mega Bundle of family friendly Hidden Object Classic Games",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5052440/b77e483a187d9d0777bb7103a5ed854753faa6b1/header.jpg?t=1788425883",
+      "major": false
+    },
+    {
+      "date": "SEP 10",
+      "isoDate": "2026-09-10",
+      "title": "Wardstone",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5146310/Wardstone/?snr=1_7_7_comingsoon_150_2",
+      "description": "Command the realm's last defense in a deep, hand-crafted tower defense. Raise six tower families, lead heroes into battle, and chain elemental reactions into screen-clearing payoffs — across field, mire and graveyard, against towering…",
+      "artwork": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5146310/ebe1b6399ce6161bc32d7d6511a526203ad995eb/header.jpg?t=1787693194",
       "major": false
     },
     {
@@ -980,6 +2656,142 @@
     {
       "date": "SEP 11",
       "isoDate": "2026-09-11",
+      "title": "Antscape Room",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3978760/Antscape_Room/?snr=1_7_7_comingsoon_150_3",
+      "major": false
+    },
+    {
+      "date": "SEP 11",
+      "isoDate": "2026-09-11",
+      "title": "Arcanefall : Darklands",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5126930/Arcanefall__Darklands/?snr=1_7_7_comingsoon_150_3",
+      "major": false
+    },
+    {
+      "date": "SEP 11",
+      "isoDate": "2026-09-11",
+      "title": "AstroDig",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4587710/AstroDig/?snr=1_7_7_comingsoon_150_3",
+      "major": false
+    },
+    {
+      "date": "SEP 11",
+      "isoDate": "2026-09-11",
+      "title": "Basketball Legacy Manager 27",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4874590/Basketball_Legacy_Manager_27/?snr=1_7_7_comingsoon_150_3",
+      "major": false
+    },
+    {
+      "date": "SEP 11",
+      "isoDate": "2026-09-11",
+      "title": "Boundless AI Fantasy",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3750150/Boundless_AI_Fantasy/?snr=1_7_7_comingsoon_150_3",
+      "major": false
+    },
+    {
+      "date": "SEP 11",
+      "isoDate": "2026-09-11",
+      "title": "Burger Shift: Team Rush",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3804930/Burger_Shift_Team_Rush/?snr=1_7_7_comingsoon_150_3",
+      "major": false
+    },
+    {
+      "date": "SEP 11",
+      "isoDate": "2026-09-11",
+      "title": "ClearIt M4",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5096290/ClearIt_M4/?snr=1_7_7_comingsoon_150_3",
+      "major": false
+    },
+    {
+      "date": "SEP 11",
+      "isoDate": "2026-09-11",
+      "title": "Clipped Reality",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5023030/Clipped_Reality/?snr=1_7_7_comingsoon_150_3",
+      "major": false
+    },
+    {
+      "date": "SEP 11",
+      "isoDate": "2026-09-11",
+      "title": "CRYING BOOTH",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/2351740/CRYING_BOOTH/?snr=1_7_7_comingsoon_150_3",
+      "major": false
+    },
+    {
+      "date": "SEP 11",
+      "isoDate": "2026-09-11",
+      "title": "DIG Raiders: Anomaly Extraction",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4368640/DIG_Raiders_Anomaly_Extraction/?snr=1_7_7_comingsoon_150_3",
+      "major": false
+    },
+    {
+      "date": "SEP 11",
+      "isoDate": "2026-09-11",
+      "title": "Escape From Lab",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4951670/Escape_From_Lab/?snr=1_7_7_comingsoon_150_3",
+      "major": false
+    },
+    {
+      "date": "SEP 11",
+      "isoDate": "2026-09-11",
+      "title": "Fire and Water: Spirits of the Forest",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4697950/Fire_and_Water_Spirits_of_the_Forest/?snr=1_7_7_comingsoon_150_3",
+      "major": false
+    },
+    {
+      "date": "SEP 11",
+      "isoDate": "2026-09-11",
+      "title": "Hard Rock Clicker",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5033940/Hard_Rock_Clicker/?snr=1_7_7_comingsoon_150_3",
+      "major": false
+    },
+    {
+      "date": "SEP 11",
+      "isoDate": "2026-09-11",
+      "title": "Horizon Ring",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4995250/Horizon_Ring/?snr=1_7_7_comingsoon_150_3",
+      "major": false
+    },
+    {
+      "date": "SEP 11",
+      "isoDate": "2026-09-11",
+      "title": "I.T.C.B - Interstellar Trade Compliance Bureau",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4806940/ITCB__Interstellar_Trade_Compliance_Bureau/?snr=1_7_7_comingsoon_150_3",
+      "major": false
+    },
+    {
+      "date": "SEP 11",
+      "isoDate": "2026-09-11",
+      "title": "Kilnborn",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5104330/Kilnborn/?snr=1_7_7_comingsoon_150_3",
+      "major": false
+    },
+    {
+      "date": "SEP 11",
+      "isoDate": "2026-09-11",
+      "title": "Lamp Clicker",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4544950/Lamp_Clicker/?snr=1_7_7_comingsoon_150_3",
+      "major": false
+    },
+    {
+      "date": "SEP 11",
+      "isoDate": "2026-09-11",
       "title": "Luduvo",
       "platforms": "PC",
       "href": "https://luduvo.com/",
@@ -990,11 +2802,131 @@
     {
       "date": "SEP 11",
       "isoDate": "2026-09-11",
+      "title": "Mad Mads Madsen",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3182010/Mad_Mads_Madsen/?snr=1_7_7_comingsoon_150_3",
+      "major": false
+    },
+    {
+      "date": "SEP 11",
+      "isoDate": "2026-09-11",
+      "title": "Moon Garden",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4319660/Moon_Garden/?snr=1_7_7_comingsoon_150_3",
+      "major": false
+    },
+    {
+      "date": "SEP 11",
+      "isoDate": "2026-09-11",
+      "title": "Murmuring of Moth Mouth",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5075730/Murmuring_of_Moth_Mouth/?snr=1_7_7_comingsoon_150_3",
+      "major": false
+    },
+    {
+      "date": "SEP 11",
+      "isoDate": "2026-09-11",
+      "title": "Post Office: Tidy Up!",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5166890/Post_Office_Tidy_Up/?snr=1_7_7_comingsoon_150_3",
+      "major": false
+    },
+    {
+      "date": "SEP 11",
+      "isoDate": "2026-09-11",
+      "title": "Proper Tosser",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5044220/Proper_Tosser/?snr=1_7_7_comingsoon_150_3",
+      "major": false
+    },
+    {
+      "date": "SEP 11",
+      "isoDate": "2026-09-11",
+      "title": "Sad Virus Ruined Land",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5168910/Sad_Virus_Ruined_Land/?snr=1_7_7_comingsoon_150_3",
+      "major": false
+    },
+    {
+      "date": "SEP 11",
+      "isoDate": "2026-09-11",
+      "title": "Screen Survivors",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4459990/Screen_Survivors/?snr=1_7_7_comingsoon_150_3",
+      "major": false
+    },
+    {
+      "date": "SEP 11",
+      "isoDate": "2026-09-11",
+      "title": "She Sucked Me Once, and Dry",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5116160/She_Sucked_Me_Once_and_Dry/?snr=1_7_7_comingsoon_150_3",
+      "major": false
+    },
+    {
+      "date": "SEP 11",
+      "isoDate": "2026-09-11",
+      "title": "SoundStone",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5091130/SoundStone/?snr=1_7_7_comingsoon_150_3",
+      "major": false
+    },
+    {
+      "date": "SEP 11",
+      "isoDate": "2026-09-11",
       "title": "Space Parkour Obby",
       "platforms": "Nintendo Switch",
       "href": "https://www.nintendo.com/us/store/products/space-parkour-obby-switch/",
       "description": "One small hop for a frog, one giant leap through space!",
       "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocq0m.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 11",
+      "isoDate": "2026-09-11",
+      "title": "StarL 9 Ashes Of The Past",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5041970/StarL_9_Ashes_Of_The_Past/?snr=1_7_7_comingsoon_150_3",
+      "major": false
+    },
+    {
+      "date": "SEP 11",
+      "isoDate": "2026-09-11",
+      "title": "Survivor's Notes",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4354460/Survivors_Notes/?snr=1_7_7_comingsoon_150_3",
+      "major": false
+    },
+    {
+      "date": "SEP 11",
+      "isoDate": "2026-09-11",
+      "title": "Tentacle Locker 2",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4071460/Tentacle_Locker_2/?snr=1_7_7_comingsoon_150_3",
+      "major": false
+    },
+    {
+      "date": "SEP 11",
+      "isoDate": "2026-09-11",
+      "title": "The Ascendant Sect",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5057560/The_Ascendant_Sect/?snr=1_7_7_comingsoon_150_3",
+      "major": false
+    },
+    {
+      "date": "SEP 11",
+      "isoDate": "2026-09-11",
+      "title": "The Village Above the Well",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5077580/The_Village_Above_the_Well/?snr=1_7_7_comingsoon_150_3",
+      "major": false
+    },
+    {
+      "date": "SEP 11",
+      "isoDate": "2026-09-11",
+      "title": "VRetro",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5163550/VRetro/?snr=1_7_7_comingsoon_150_3",
       "major": false
     },
     {
@@ -1015,6 +2947,14 @@
       "href": "https://store.steampowered.com/app/5130150/Put_Back_Stuff/",
       "description": "Put Back Stuff is a cozy organisation simulator where you put items back where they belong. Enjoy peaceful, play at your pace organisation.",
       "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocsjw.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 12",
+      "isoDate": "2026-09-12",
+      "title": "Urban Struggle",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4357060/Urban_Struggle/?snr=1_7_7_comingsoon_150_3",
       "major": false
     },
     {
@@ -1120,11 +3060,35 @@
     {
       "date": "SEP 13",
       "isoDate": "2026-09-13",
+      "title": "Duty Guvnor",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5018290/Duty_Guvnor/?snr=1_7_7_comingsoon_150_3",
+      "major": false
+    },
+    {
+      "date": "SEP 13",
+      "isoDate": "2026-09-13",
+      "title": "Eternal Grove",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5079070/Eternal_Grove/?snr=1_7_7_comingsoon_150_3",
+      "major": false
+    },
+    {
+      "date": "SEP 13",
+      "isoDate": "2026-09-13",
       "title": "F1 Simulator",
       "platforms": "PC",
       "href": "https://store.steampowered.com/app/4071810",
       "description": "F1 Simulator puts you in the cockpit, where every turn, every boost, and every second counts. Feel the adrenaline, chase insane speeds, and carve your name into the record books as the ultimate racing legend!",
       "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocagj.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 13",
+      "isoDate": "2026-09-13",
+      "title": "Fantasy Bird Woods",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4486350/Fantasy_Bird_Woods/?snr=1_7_7_comingsoon_150_3",
       "major": false
     },
     {
@@ -1160,6 +3124,14 @@
     {
       "date": "SEP 13",
       "isoDate": "2026-09-13",
+      "title": "Gun Of Fate: The Silver Gun Of Ylia",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3242510/Gun_Of_Fate_The_Silver_Gun_Of_Ylia/?snr=1_7_7_comingsoon_150_3",
+      "major": false
+    },
+    {
+      "date": "SEP 13",
+      "isoDate": "2026-09-13",
       "title": "How to Grow Your Sausage",
       "platforms": "PC",
       "href": "https://store.steampowered.com/app/4628250/How_to_Grow_Your_Sausage/",
@@ -1175,6 +3147,22 @@
       "href": "https://store.steampowered.com/app/4054250",
       "description": "In Hunting Pro Simulator, your hearts racing, hands shaking BAM! Take the perfect headshot! Feel the thrill, aim the target, and celebrate as the beast hits the ground. Hunting has never felt this easy!",
       "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cocagh.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 13",
+      "isoDate": "2026-09-13",
+      "title": "Lanky Looters",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5004720/Lanky_Looters/?snr=1_7_7_comingsoon_150_3",
+      "major": false
+    },
+    {
+      "date": "SEP 13",
+      "isoDate": "2026-09-13",
+      "title": "Legends of Azamar",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3556700/Legends_of_Azamar/?snr=1_7_7_comingsoon_150_3",
       "major": false
     },
     {
@@ -1250,6 +3238,14 @@
     {
       "date": "SEP 13",
       "isoDate": "2026-09-13",
+      "title": "Remnants of the forsaken Past : Submerged Fantasy",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/4672110/Remnants_of_the_forsaken_Past__Submerged_Fantasy/?snr=1_7_7_comingsoon_150_3",
+      "major": false
+    },
+    {
+      "date": "SEP 13",
+      "isoDate": "2026-09-13",
       "title": "Rig Riot",
       "platforms": "PC",
       "href": "https://store.steampowered.com/app/3180340/RIG_Riot/",
@@ -1300,6 +3296,14 @@
     {
       "date": "SEP 13",
       "isoDate": "2026-09-13",
+      "title": "Stack Together: To the Moon – Stack, Build & Escape",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/3424650/Stack_Together_To_the_Moon__Stack_Build__Escape/?snr=1_7_7_comingsoon_150_3",
+      "major": false
+    },
+    {
+      "date": "SEP 13",
+      "isoDate": "2026-09-13",
       "title": "Suba Pogo",
       "platforms": "PC",
       "href": "https://store.steampowered.com/app/5052250",
@@ -1325,6 +3329,22 @@
       "href": "https://store.steampowered.com/app/4301110",
       "description": "A cozy top-down farming management game focused on planning and steady growth. Manage fields, machinery, and resources, upgrade your farm, and develop efficient processes at your own pace in a calm, strategic experience.",
       "artwork": "https://images.igdb.com/igdb/image/upload/t_1080p/cobiy5.jpg",
+      "major": false
+    },
+    {
+      "date": "SEP 13",
+      "isoDate": "2026-09-13",
+      "title": "Water Sort:Alchemy",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5122530/Water_SortAlchemy/?snr=1_7_7_comingsoon_150_3",
+      "major": false
+    },
+    {
+      "date": "SEP 13",
+      "isoDate": "2026-09-13",
+      "title": "You Will Get Rich!",
+      "platforms": "PC",
+      "href": "https://store.steampowered.com/app/5169430/You_Will_Get_Rich/?snr=1_7_7_comingsoon_150_3",
       "major": false
     }
   ]
