@@ -58,18 +58,15 @@ function displayDate(date) {
 }
 
 function windowLabel(start, end) {
-  const sameMonth = start.getMonth() === end.getMonth();
-  const startLabel = start.toLocaleDateString('en-US', {
-    month: 'long',
-    day: 'numeric',
-    ...(sameMonth ? {} : { year: 'numeric' }),
-  });
-  const endLabel = end.toLocaleDateString('en-US', {
-    ...(sameMonth ? {} : { month: 'long' }),
-    day: 'numeric',
-    year: 'numeric',
-  });
-  return `${startLabel}–${endLabel}`;
+  const startMonth = start.toLocaleDateString('en-US', { month: 'long' });
+  const endMonth = end.toLocaleDateString('en-US', { month: 'long' });
+  if (start.getMonth() === end.getMonth() && start.getFullYear() === end.getFullYear()) {
+    return `${startMonth} ${start.getDate()}–${end.getDate()}, ${end.getFullYear()}`;
+  }
+  if (start.getFullYear() === end.getFullYear()) {
+    return `${startMonth} ${start.getDate()}–${endMonth} ${end.getDate()}, ${end.getFullYear()}`;
+  }
+  return `${startMonth} ${start.getDate()}, ${start.getFullYear()}–${endMonth} ${end.getDate()}, ${end.getFullYear()}`;
 }
 
 function normalizeTitle(title) {
@@ -104,6 +101,107 @@ function websiteUrl(websites = []) {
   ];
   return priorities.map((host) => urls.find((url) => url.includes(host))).find(Boolean)
     || urls[0];
+}
+
+function decodeHtml(value = '') {
+  return value
+    .replace(/<[^>]*>/g, ' ')
+    .replace(/&amp;/g, '&')
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;|&apos;/g, "'")
+    .replace(/&nbsp;/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+function steamDate(value) {
+  const parsed = new Date(`${decodeHtml(value)} 12:00:00`);
+  return Number.isNaN(parsed.getTime()) ? null : parsed;
+}
+
+function excludedSteamTitle(title) {
+  return /(?:\bdemo\b|\bprologue\b|\bprototype\b|\bplaytest\b|\bbeta\b|\btest server\b|\bsoundtrack\b)/i.test(title);
+}
+
+async function steamSearchPage(startOffset) {
+  const url = new URL('https://store.steampowered.com/search/results/');
+  url.searchParams.set('start', String(startOffset));
+  url.searchParams.set('count', '100');
+  url.searchParams.set('sort_by', '_ASC');
+  url.searchParams.set('filter', 'comingsoon');
+  url.searchParams.set('category1', '998');
+  url.searchParams.set('os', 'win');
+  url.searchParams.set('supportedlang', 'english');
+  url.searchParams.set('infinite', '1');
+  const response = await fetch(url, {
+    headers: { 'User-Agent': 'AfterHoursArcadePodcast/1.0' },
+  });
+  if (!response.ok) throw new Error(`Steam search failed (${response.status}).`);
+  return response.json();
+}
+
+function parseSteamRows(html, start, end) {
+  const rows = [];
+  const rowPattern = /<a\b[^>]*class=["'][^"']*search_result_row[^"']*["'][^>]*>[\s\S]*?<\/a>/gi;
+  for (const match of html.matchAll(rowPattern)) {
+    const row = match[0];
+    const appId = row.match(/data-ds-appid=["'](\d+)["']/i)?.[1];
+    const href = row.match(/href=["']([^"']+)["']/i)?.[1]?.replaceAll('&amp;', '&');
+    const title = decodeHtml(row.match(/<span\b[^>]*class=["']title["'][^>]*>([\s\S]*?)<\/span>/i)?.[1]);
+    const date = steamDate(row.match(/<div\b[^>]*class=["'][^"']*search_released[^"']*["'][^>]*>([\s\S]*?)<\/div>/i)?.[1]);
+    if (!appId || !href || !title || !date || date < start || date > end || excludedSteamTitle(title)) continue;
+    rows.push({ appId, href, title, releaseDate: date });
+  }
+  return rows;
+}
+
+async function steamAppDetails(appId) {
+  const response = await fetch(
+    `https://store.steampowered.com/api/appdetails?appids=${appId}&l=english&cc=us`,
+    { headers: { 'User-Agent': 'AfterHoursArcadePodcast/1.0' } },
+  );
+  if (!response.ok) return null;
+  const payload = await response.json();
+  return payload[appId]?.success ? payload[appId].data : null;
+}
+
+async function mapConcurrent(items, concurrency, mapper) {
+  const results = new Array(items.length);
+  let nextIndex = 0;
+  async function worker() {
+    while (nextIndex < items.length) {
+      const index = nextIndex++;
+      results[index] = await mapper(items[index]);
+    }
+  }
+  await Promise.all(Array.from({ length: Math.min(concurrency, items.length) }, worker));
+  return results;
+}
+
+async function steamReleases(start, end) {
+  const rows = [];
+  let total = 100;
+  for (let offset = 0; offset < total && offset < 2000; offset += 100) {
+    const page = await steamSearchPage(offset);
+    total = Number(page.total_count) || 0;
+    rows.push(...parseSteamRows(page.results_html || '', start, end));
+    if (!page.results_html) break;
+  }
+  const unique = [...new Map(rows.map((row) => [row.appId, row])).values()];
+  return mapConcurrent(unique, 12, async (row) => {
+    const details = await steamAppDetails(row.appId);
+    if (details && details.type !== 'game') return null;
+    return {
+      date: displayDate(row.releaseDate),
+      isoDate: isoDate(row.releaseDate),
+      title: row.title,
+      platforms: ['PC'],
+      href: row.href,
+      description: cleanDescription(details?.short_description),
+      artwork: details?.header_image || details?.capsule_image,
+      major: false,
+    };
+  });
 }
 
 async function twitchToken() {
@@ -196,6 +294,15 @@ for (const record of records) {
   });
 }
 
+try {
+  const steamRecords = await steamReleases(start, end);
+  const validSteamRecords = steamRecords.filter(Boolean);
+  console.log(`Steam returned ${validSteamRecords.length} full-game releases for this week.`);
+  for (const release of validSteamRecords) mergeRelease(merged, release);
+} catch (error) {
+  console.warn(`Steam enrichment was unavailable: ${error instanceof Error ? error.message : error}`);
+}
+
 const overrides = JSON.parse(await readFile(new URL('../data/manual-overrides.json', import.meta.url), 'utf8'));
 for (const release of overrides.releases || []) {
   if (!release.isoDate || release.isoDate < isoDate(start) || release.isoDate > isoDate(end)) continue;
@@ -227,6 +334,7 @@ const payload = {
   windowLabel: windowLabel(start, end),
   sources: [
     { name: 'IGDB release dates', href: 'https://www.igdb.com/' },
+    { name: 'Steam upcoming releases', href: 'https://store.steampowered.com/search/?category1=998&filter=comingsoon' },
     { name: 'Linked official and storefront pages', href: 'https://www.igdb.com/api' },
   ],
   releases,
