@@ -1,0 +1,8 @@
+{
+  "name": "after-hours-arcade-release-feed",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update": "node scripts/update-releases.mjs"
+  }
+}

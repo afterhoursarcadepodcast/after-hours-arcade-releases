@@ -1,0 +1,41 @@
+name: Refresh weekly game releases
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 8 * * 1'
+      timezone: America/New_York
+
+permissions:
+  contents: write
+
+concurrency:
+  group: weekly-release-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      TZ: America/New_York
+      IGDB_CLIENT_ID: ${{ secrets.IGDB_CLIENT_ID }}
+      IGDB_CLIENT_SECRET: ${{ secrets.IGDB_CLIENT_SECRET }}
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 22
+      - name: Build this week's release feed
+        run: npm run update
+      - name: Publish changed feed
+        run: |
+          if git diff --quiet -- data/weekly-releases.json; then
+            echo "Release feed is already current."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/weekly-releases.json
+          git commit -m "Refresh weekly releases"
+          git push
